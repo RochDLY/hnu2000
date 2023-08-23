@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "tools/stylo.html",
+    "href": "tools/stylo.html",
+    "title": "Stylo",
+    "section": "",
+    "text": "Stylo est un éditeur de texte en ligne spécialisé pour les SHS développé par la Chaire de recherche sur les écritures numériques au Canada.\nLa documentation est disponible en cliquant sur ce lien."
+  },
+  {
+    "objectID": "tools/stylo.html#description",
+    "href": "tools/stylo.html#description",
+    "title": "Stylo",
+    "section": "Description",
+    "text": "Description\nStylo est un éditeur de texte sémantique développé par la Chaire de recherche du Canada sur les écritures numériques. Stylo est une solution SaaS (Software as a Service) hébergée par la TGIR des Humanités numériques Huma-Num, et centralise une multitude de fonctionnalités au coeur des enjeux de l’édition scientifique. Stylo permet, en plus de l’activité initiale d’écriture en Markdown, d’éditer les métadonnées d’un document, de suivre les évolutions d’un document grâce au versionnage de fichier, de gérer les données bibliographiques (notamment via Zotero ou en BibTeX), d’annoter les documents, de les partager avec des collaborateurs et, enfin, de les exporter dans différents formats. Cette dernière propriété repose sur Pandoc pour convertir les trois sources (YAML pour les métadonnées, Markdown pour le texte et BibTeX pour la bibliographie) vers les différents formats de sortie (output)."
+  },
+  {
+    "objectID": "tools/stylo.html#premiers-pas",
+    "href": "tools/stylo.html#premiers-pas",
+    "title": "Stylo",
+    "section": "Premiers pas",
+    "text": "Premiers pas\nPour faire vos premiers pas avec ce logiciel, vous pouvez vous rendre sur cette page Web.\nCette page vous aidera à créer un compte, à comprendre la structure des articles mais aussi l’ensemble des fonctionnalités basiques à votre disposition."
+  },
+  {
+    "objectID": "tools/stylo.html#aperçu",
+    "href": "tools/stylo.html#aperçu",
+    "title": "Stylo",
+    "section": "Aperçu",
+    "text": "Aperçu"
+  },
+  {
+    "objectID": "tools/terminal.html",
+    "href": "tools/terminal.html",
+    "title": "Le Terminal",
+    "section": "",
+    "text": "Suivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
+  },
+  {
+    "objectID": "tools/gephi.html",
+    "href": "tools/gephi.html",
+    "title": "Gephi",
+    "section": "",
+    "text": "Gephi est un logiciel open source pour la visualisation et l’analyse de grands graphes de réseaux. Gephi utilise un moteur de rendu 3D pour afficher les graphes en temps réel et accélérer l’exploration."
+  },
+  {
+    "objectID": "tools/gephi.html#description",
+    "href": "tools/gephi.html#description",
+    "title": "Gephi",
+    "section": "Description",
+    "text": "Description\nGephi est un outil destiné aux analystes de données et aux scientifiques désireux d’explorer et de comprendre les graphiques. Comme Photoshop mais pour les données graphiques, l’utilisateur interagit avec la représentation, manipule les structures, les formes et les couleurs pour révéler des modèles cachés. L’objectif est d’aider les analystes de données à faire des hypothèses, à découvrir intuitivement des modèles, à isoler des singularités de structure ou des défauts lors de la recherche de données. Il s’agit d’un outil complémentaire aux statistiques traditionnelles, car la pensée visuelle avec des interfaces interactives est maintenant reconnue pour faciliter le raisonnement. Il s’agit d’un logiciel pour l’analyse exploratoire des données, un paradigme apparu dans le domaine de recherche des Visual Analytics."
+  },
+  {
+    "objectID": "tools/gephi.html#premiers-pas",
+    "href": "tools/gephi.html#premiers-pas",
+    "title": "Gephi",
+    "section": "Premiers pas",
+    "text": "Premiers pas\nPour vous familiariser un peu avec le logiciel, vous pouvez suivre le très bon tutoriel de Martin Grandjean."
+  },
+  {
+    "objectID": "tools/gephi.html#aperçu",
+    "href": "tools/gephi.html#aperçu",
+    "title": "Gephi",
+    "section": "Aperçu",
+    "text": "Aperçu\n\n\n\nInterface de Gephi présentée sur gephi.org"
+  },
+  {
+    "objectID": "tools/redaction.html",
+    "href": "tools/redaction.html",
+    "title": "Conseils de rédaction",
+    "section": "",
+    "text": "Crédits\n\n\n\n\n\nMerci @LucasFritz pour ses précieux conseils de rédaction."
+  },
+  {
+    "objectID": "tools/redaction.html#lintroduction",
+    "href": "tools/redaction.html#lintroduction",
+    "title": "Conseils de rédaction",
+    "section": "L’introduction",
+    "text": "L’introduction\n\nIntroduire le sujet en donnant un contexte social et historique large et en resserant ce contexte sur votre sujet.\n\nExemple : Dans un contexte de démocratisation de l’accès à l’éducation, les manuels scolaires standardisés sont apparus, etc.\n\nJustifier l’organisation de votre document en portant un jugement sur la nature des découpes que vous avex effectués. Il y a deux jugements importants : celui qui porte sur l’élimination d’une autre lecture qui pourrait être utile à première vue, et celui qui porte sur l’organisation des parties.\n\nExemple : Il nous a (il m’a) semblé pertinent de comprendre les controverses autour des manuels scolaires à l’aune des récentes mesures de protection de l’environnement et de sensibilisation du public à la déforestation – ce qui est en jeu est moins le contenu du livre que son matériau, son support. Néanmoins le livre numérique pose la question environnementale de l’extraction de ses composantes, comme la question pédagogique de la formation des enseignants et des élèves.\n\n(Re)formuler la question puis présenter les différentes parties.\n\nExemple : Nous allons voir comment s’articule la controverse autour du manuel scolaire standardisé en X points :"
+  },
+  {
+    "objectID": "tools/redaction.html#les-parties-de-la-composition",
+    "href": "tools/redaction.html#les-parties-de-la-composition",
+    "title": "Conseils de rédaction",
+    "section": "Les parties de la composition",
+    "text": "Les parties de la composition\n\nChaque partie a une fonction par rapport à l’ensemble, un rapport à une thématique plus précise qu’il faut présenter et illustrer à l’aide d’exemples. Dans le cas précis de l’analyse socio-technique il s’agit de présenter chaque catégorie de la controverse et les différents acteurs du mouvement.\n\nExemple : Les enjeux environnementaux autour du cahier standardisé intègrent de multiples acteurs principalement opposés sur la question de l’usage du papier dans l’enseignement.\n\nLes sous-parties précisent les étapes du débat, les désaccord et leur mode d’expression ( c’est la section la plus importante, elle ancre la controverse dans des noms d’acteurs précis ).\n\nExemple : Une première controverse a opposé Green-Peace Etats-Unis au géant Kindle, l’argument de Green-Peace relevé en France dans un article de Février 2018 par le magazine Gouvernance, Ethique et Développement, a été de souligner le caractère vétuste des chaînes de production de Kindle – et le coût environnemental de l’acheminement.\n\nChaque partie et sous-partie se découpe traditionnellement en 3 voire 4 parties. Ces parties sont typographiquement invisibles : il ne faut pas les marquer d’un retour à la ligne ou autre. Néanmoins des marqueurs logiques permettent de rendre le mouvement visible.\n\nExemple : Dans un premier temps… en effet… néanmoins… (transition)\n\nChaque partie est lié à l’autre partie par un phénomène de nécessité. Il faut montrer qu’il est nécessaire de regarder de l’autre côté.\n\nExemple : Pour apprécier la controverse autour de l’usage du papier, il est nécessaire/pertinent de regarder la controverse autour des représentations du savoir opposant les partisans de l’école traditionnelle à ceux de l’école de demain."
+  },
+  {
+    "objectID": "tools/redaction.html#la-conclusion",
+    "href": "tools/redaction.html#la-conclusion",
+    "title": "Conseils de rédaction",
+    "section": "La conclusion",
+    "text": "La conclusion\nC’est la partie qui vous engage personnellement, d’une façon critique d’une part et auto-critique de l’autre.\n\nReprendre les mouvements du texte de façon succincte.\n\nExemple : Nous avons vu ceci, cela et enfin….\n\nRepérer une tendance générale et tenter une explication de cette tendance à partir de ce que vous avez découvert (normalement il s’agit de répondre à la question formulée, nous allons travailler la formulation de question ultérieurement. Ici il s’agit de remarquer une inégalité dans le débat, d’expliquer pourquoi l’objet continue d’exister malgré les controverses et de souligner les forces qui le font exister)\n\nExemple : Nous pouvons considérer que l’influence des acteurs du monde de l’édition et les partisans d’un modèle pédagogique traditionnelle en France est plus forte que celle des partisans d’un modèle écologique et numérique…cela peut être dû à un manque d’autorité du ministère de la Transition écologique.\n\nReconnaître ses limites, remettre en question votre méthode et/ou votre point de vue en indiquant des horizons possibles pour la recherche ( le manque de temps ne peut pas être à lui tout seul une explication)\n\nExemple : Néanmoins, la diversité des associations engagées dans cette controverse m’a obligé à réduire mon enquête à une seule/deux association(s)… il sera donc utile d’ouvrir le champ de la controverse a des acteurs plus petits pour comprendre les enjeux sur le terrain des individus…\nNb : Vous n’êtes pas obligé.e de reprendre exactement cette découpe – l’idée étant que le texte soit découpé logiquement en parties, elles-même découpées en sous-partie, elles mêmes ayant une fonction précise. Selon vos habitudes linguistiques l’écriture peut varier, mais il est impératif que l’organisation logique soit présente.\nNb2 : Si vous avez du mal à cerner votre sujet c’est soit qu’il est trop large soit qu’il cible un concept différent de ce dont vous parlez : les controverses autour des vaccins en général et du concept même de vaccination intègrent des acteurs différents des controverses autour d’un vaccin en particulier (celui contre la grippe par exemple).\nVous pouvez retrouver des arguments similaires mais ce sont des réseaux et des acteurs différents, notamment car les controverses autour d’un objet général (ici les vaccins) vous oblige à regarder la racine historique de la controverse (Pasteur notamment). L’un (le cas spécifique) est généralement plus contemporain que l’autre (le cas général). Attention à ne pas confondre un exemple particulier la famille à laquelle il appartient."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Plan de cours",
+    "section": "",
+    "text": "Le cours “Humanités numérique : technologies” est dispensé à l’Université de Montréal au trimestre d’automne 2023.\n\n\nLe cours se tient en présentiel le mercredi de 15h30 à 18h30 en salle B-4310 Pav. 3200 J.-Brillant .\nContact : Roch Delannay - roch.delannay@umontreal.ca\n\n\n\n\n\n\nNote\n\n\n\nLorsque vous souhaitez m’envoyer un courriel, merci d’indiquer la mention “[HNU2000]” entre crochets au début de chaque objet attaché au message.\nExemple d’objet de courriel : [HNU2000] Questions relatives au cours du 06 septembre 2023.\n\n\n\n\n\nCe cours est programmé en présentiel à partir du mercredi 06 septembre 2023, les étudiant·e·s doivent donc être présent·e·s à toutes les séances tant que les conditions le permettent. Ce plan de cours est susceptible d’évoluer, les étudiant·e·s seront prévenu·e·s au fur et à mesure.\n\n\n\nEn suivant ce cours vous vous engagez à venir autant que possible à chaque séance et à suivre les recommandations suivantes :\n\npréparation : lectures demandées et relecture du cours ;\nconcentration : éviter les distractions pendant les séances ;\nêtre actif·ve : écouter le cours, participer aux manipulations, poser des questions ;\nécouter : lorsque d’autres étudiant·e·s prennent la parole, écoutez-les ;\ncréer des connexions : synthétiser et mettre en rapport les différents contenus présentés.\n\n\n\n\n\n\n\nNote\n\n\n\nIl est attendu des étudiant·e·s qu’ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce lien.\nLes notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s’approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un “outil” pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l’objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l’ensemble de la classe, étudiant·e ou enseignant, etc.).\n\n\n\n\n\n\nImportant\n\n\n\n\n\nIl est recommandé aux étudiant·e·s de s’authentifier sur l’application Hedgedoc (par exemple via l’instance GitHub pour ne pas multiplier les identifiants)."
+  },
+  {
+    "objectID": "index.html#objectifs",
+    "href": "index.html#objectifs",
+    "title": "Plan de cours",
+    "section": "Objectifs",
+    "text": "Objectifs\nQue sont les humanités numériques et quelles technologies sont utilisées dans cette approche scientifique ? Les « humanités numériques » sont à la fois une méthode scientifique, un programme de recherche ou une approche pluridisciplinaire : elles offrent de nouvelles perspectives pour appréhender, lire et comprendre le monde qui nous entoure. Depuis l’avènement du numérique, la compréhension des écosystèmes technologiques devient une nécessité dans le champ des sciences humaines. Le cours HNU 2000 « Humanités numériques : technologies » est une opportunité pour explorer de façon originale les outils théoriques et pratiques utilisés dans les humanités numériques : lire, écrire, chercher, explorer, visualiser, analyser, publier, etc. Ce cours est un espace de formation pratique et de découverte des méthodes de base en humanités numériques, avec une orientation vers les démarches d’écriture, d’édition et de publication.\nCe cours est une initiation aux technologies utilisées dans les humanités numériques : les étudiant·e·s devront comprendre, explorer, manipuler et expérimenter des outils, des logiciels, des méthodes et des programmes informatiques. Le cours HNU 1000 « Humanités numériques : théories » est un compagnon de ce cours pratique.\nÀ l’issue du cours les étudiant·e·s seront en mesure de comprendre les enjeux technologiques des humanités numériques, de réutiliser des concepts liés aux humanités numériques, d’appréhender des méthodes utilisées dans les humanités numériques et d’utiliser des outils/applications.\n\nOrganisation des séances\nLes séances alterneront des “cours magistraux” ainsi que des “démonstrations techniques” autour de notions théoriques qui seront abordées.\nIl est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.\n\n06 septembre 2023 - Introduction au cours « Humanités numériques : technologies »\n13 septembre 2023 - 10 outils des Humanités Numériques\n20 septembre 2023 - Chercher de l’information sur le Web\n27 septembre 2023 - Annoter le Web\n04 octobre 2023 - Récolter, organiser et partager des références bibliographiques\n11 octobre 2023 - Écrire sémantiquement\n18 octobre 2023 - Semaine de lecture\n25 octobre 2023 - Publier sur le Web\n01 novembre 2023 - Introduction à la programmation\n08 novembre 2023 - Récupérer et nettoyer des données sur le Web\n15 novembre 2023 - Analyser du texte\n22 novembre 2023 - Exploiter des données à travers la théorie des graphes\n29 novembre 2023 - Analyser des données avec la programmation\n06 décembre 2023 - Devoir sur table\n\n\n\nModalités d’évaluations\nTrois modalités d’évaluation permettront aux étudiant·e·s de valider ce cours :\n\nRéalisation d’une présentation d’une méthode ou d’un outil (30%) ;\nUn devoir sur table lors de la dernière séance (50%) ;\nContrôle continu (20%).\n\n\nPrésentation\nLors des premières semaines (jusqu’au 04 octobre) plusieurs projets, méthodes et outils issus des humanités numériques seront présentés brièvement, les étudiant·e·s devront en choisir un pour le présenter lors d’un exposé oral en classe à partir du 01 novembre. Votre choix doit être conduit par un réel intérêt. Voici les objectifs et les contraintes pour l’exposé :\n\nprésenter clairement un objet ;\npartager un intérêt autour d’une initiative en humanités numériques ;\nstructurer une présentation ;\nrépondre aux questions pendant l’exposé ;\naffirmer une position tout en étant ouvert·e aux remarques ;\ntemps imparti : 10 minutes pour l’exposé puis un temps d’échange avec l’enseignant et les étudiant·e·s ;\nsupport de présentation recommandé (évitez de mettre trop de textes sur les diapositives, privilégiez les images/schémas/dessins).\n\nEt voici une proposition de plan à suivre ou dont vous pouvez vous inspirer (chaque élément doit être abordé pendant votre exposé) :\n\ndescription courte : quelques mots qui présentent brièvement l’objet étudié ;\ncontexte : présentez les objectifs de cette initiative, pourquoi un tel projet/outil/méthode a été mis en place ? Pour qui et à quel fin ?\nfonctionnement ou description technique : selon l’objet étudié présentez le fonctionnement ou les détails techniques du projet/outil/méthode ;\ncomparaison avec d’autres initiatives : effectuer une courte comparaison avec d’autres initiatives équivalentes ou proches en indiquant les points communs ou les éléments de différenciation ;\nanalyse critique (avec l’appui de références issues du cours ou de la bibliographie) : à partir des points précédents, proposer un point de vue argumenté sur l’objet. À quels besoins répond-il ? Pourquoi présente-t-il un intérêt ? Est-ce un outil superflu ou incontournable dans un champ donné ? etc. ;\nconclusion : résumé synthétique de ce que vous venez de présenter avec une éventuelle ouverture.\n\nEnfin voici les dates importantes pour cet exercice :\n\njusqu’au 04 octobre : présentation par l’enseignant d’un certain nombre de projets, de méthodes ou d’outils pendant le cours (une liste sera mise à disposition) ;\navant le 11 octobre : les étudiant·e·s doivent indiquer leur choix, c’est-à-dire sur quoi portera leur exposé ;\nle 20 octobre : dernier délai pour l’enseignant pour valider les sujets (si nécessaire une rencontre personnalisée peut être organisée) ;\nà partir du 01 novembre : début des exposés pendant le cours (les étudiant·e·s seront informés de leur ordre de passage pendant la semaine de lecture).\n\n\n\nDevoir sur table\n\n\n\n\n\n\nWarning\n\n\n\nPensez à apporter des feuilles et des stylos  ! L’examen sera un devoir sur table  !\n\n\nUn ou plusieurs sujets au choix seront donnés lors de la dernière séance mercredi 6 décembre 2023. Un sujet devra faire l’objet d’une rédaction structurée comprise entre 8000 et 12000 signes (entre 1000 et 1600 mots), en utilisant les ressources du cours (supports, glossaire, lectures obligatoires, bibliographie).\nCritères de notation :\n\northographe et grammaire ;\nqualité de la rédaction ;\nclarté du texte dans son ensemble (privilégier des phrases compréhensibles à des figures de styles) ;\nargumentation de vos analyses :\n\nstructure de votre texte (parties, sous-parties) ;\nillustrations de vos propos : descriptions, images, etc. ;\nutilisation du cours ;\nusage des références bibliographiques/lectures du cours (et pertinence de cet usage).\n\n\n\n\nContrôle continu\nLe contrôle continu comprends la participation en cours, les lectures et les annotations réalisées sur les différents supports donnés à l’occasion des séances de cours."
+  },
+  {
+    "objectID": "index.html#informations-complémentaires",
+    "href": "index.html#informations-complémentaires",
+    "title": "Plan de cours",
+    "section": "Informations complémentaires",
+    "text": "Informations complémentaires\n\nPlagiat et fraude\n\n« Tout acte de plagiat, fraude, copiage, tricherie ou falsification de document commis par une étudiante, un étudiant, de même que toute participation à ces actes ou tentative de les commettre, à l’occasion d’un examen ou d’un travail faisant l’objet d’une évaluation ou dans toute autre circonstance, constituent une infraction. Vous trouverez à l’adresse suivante les différentes formes de fraude et de plagiat ainsi que les sanctions prévues par l’Université : https://integrite.umontreal.ca »\n\n\n\nDébugue tes humanités\nPour ceux qui souhaitent suivre une formation gratuite, en ligne, sur les écritures numériques en sciences humaines et sociales, vous pouvez suivre Débugue tes humanités. Débugue est un programme dispensé à l’Université de Montréal par des chercheur·es en humanités numériques. Les séances se déroulent en mode hybride les mardis de 13h à 15h à raison de deux séances par mois. Le lien pour se connecter en visioconférence est disponible sur le site Web de la formation."
+  },
+  {
+    "objectID": "posts/041023.html",
+    "href": "posts/041023.html",
+    "title": "04 octobre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/130923.html",
+    "href": "posts/130923.html",
+    "title": "13 septembre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/011123.html",
+    "href": "posts/011123.html",
+    "title": "01 novembre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/291123.html",
+    "href": "posts/291123.html",
+    "title": "29 novembre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/251023.html",
+    "href": "posts/251023.html",
+    "title": "25 octobre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/060923.html",
+    "href": "posts/060923.html",
+    "title": "06 septembre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/060923.html#atelier",
+    "href": "posts/060923.html#atelier",
+    "title": "06 septembre 2023",
+    "section": "Atelier",
+    "text": "Atelier\n\nDésigner un Secrétaire pour les notes collaboratives.\nExercice :\n\n\nRéaliser le tutoriel du langage de balisage Markdown : https://www.arthurperret.fr/tutomd/tutorial/tutorial.html ;\nSe présenter en 3 lignes dans le pad du 13 septembre.\n\n\n\n\n\n\n\nDanger\n\n\n\nAttention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !"
+  },
+  {
+    "objectID": "posts/270923.html",
+    "href": "posts/270923.html",
+    "title": "27 septembre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/221123.html",
+    "href": "posts/221123.html",
+    "title": "22 novembre 2023",
+    "section": "",
+    "text": "Ce cours s’appuiera largement sur les travaux de Martin Grandjean, notamment son article “Structures complexes et organisations internationales : Analyses de réseaux en histoire. L’exemple de la coopération intellectuelle de la Société des Nations” publié en 2017.\n\n\n\n\n\n\nNote\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/081123.html",
+    "href": "posts/081123.html",
+    "title": "08 novembre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/200923.html",
+    "href": "posts/200923.html",
+    "title": "20 septembre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/151123.html",
+    "href": "posts/151123.html",
+    "title": "15 novembre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/111023.html",
+    "href": "posts/111023.html",
+    "title": "11 octobre 2023",
+    "section": "",
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+  },
+  {
+    "objectID": "posts/bibliographie.html",
+    "href": "posts/bibliographie.html",
+    "title": "Bibliographie",
+    "section": "",
+    "text": "Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique–9782724623659-p-176.htm\nCassou-Noguès, P. (2022). “Mon Oncle”, Dans La Bienveillance des machines. Comment le numérique nous transforme à notre insu. Seuil.\nDelannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. Sens public. http://sens-public.org/articles/1683/\nErtzscheid, O. (2013). Qu’est-ce que l’identité numérique ? OpenEdition Press.\nGalinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720\nGomez-Mejia, G. (2019). Les fabriques de soi ? Identité et industrie sur le web. MKF.\nMerzeau, L. (2013b). L’intelligence des traces. Intellectica. Revue de l’Association pour la Recherche Cognitive, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088\nMerzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? Questions de communication, n° 34(2), 41‑54.\nRomele, A. et Severo, M. (2015). Traces numériques et territoires (Presses des Mines). http://books.openedition.org/pressesmines/1984\nSaemmer, A. (2021). Bienvenue dans la Colonie facebook. Hybrid. Revue des arts et médiations humaines, (7). https://doi.org/10.4000/hybrid.675\nSouchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). Le numérique comme écriture : théorique et méthodes d’analyse. Armand Colin.\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, représentation, langage, (HS-33). https://doi.org/10.4000/corela.11759"
+  },
+  {
+    "objectID": "posts/bibliographie.html#références-complémentaires",
+    "href": "posts/bibliographie.html#références-complémentaires",
+    "title": "Bibliographie",
+    "section": "Références complémentaires",
+    "text": "Références complémentaires\n\nCardon, D. ; Casilli, A. (2015). Qu’est-ce que le digital labor ? INA Editions.\nCarré D., Panico, R. (2010). « Le contrôle social à l’heure des technologies de mobilité et de connectivité : du fichage ciblé des individus au traçage continu des agissements », Colloque Creis-Terminal.\nCasilli, Antonio A. (2010). Les liaisons numériques : vers une nouvelle sociabilité ? Seuil.\nCastoriadis, C. (1975). L’institution imaginaire de la société. Seuil.\nCrozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. I2D - Information, donnees documents, 53(2), 62‑64.\nFlichy, P. (2001). L’imaginaire d’internet. La Découverte.\nGalinon-Mélénec, B. ; Liénard, F. ; Zlitni, S. (2015). L’homme-trace : inscriptions corporelles et techniques. CNRS Editions.\nGoody, J. (1979). La raison graphique : la domestication de la pensée sauvage. Minuit.\nGrandjean, M. (2017). Structures complexes et organisations internationales : Analyses de réseaux en histoire. L’exemple de la coopération intellectuelle de la Société des Nations. ⟨halshs-01610098v2⟩\nHayles, N. K. (2015). Parole, écriture, code. Les Presses du réel.\nIngold, T. (2013). Une brève histoire des lignes. Zones sensibles.\nJeanneret, Y. (2019). La fabrique de la trace. ISTE Editions.\nKittler, F. A. (2015). Mode protégé. Les Presses du réel.\nKembellec, G. (2020). L’érudition numérique palimpseste. Hermes, La Revue, n° 87(2), 145‑158.\nLakoff et Johnson (1980 [1986]). Les métaphores dans la vie quotidienne. Minuit.\nMauss, M. (2007). Essai sur le don : forme et raison de l’échange dans les sociétés archaïques don contre-don. PUF.\nMarx, K. (1968). Le Capital. Livre I. Gallimard.\nLe billet de blog de Christophe Masutti : https://framablog.org/2022/08/29/bifurquer-avant-limpact-limpasse-du-capitalisme-de-surveillance/\nMonjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. Sens public. https://doi.org/10.7202/1043638ar\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208\nVitali-Rosati, M. (2021). Pour une pensée préhumaine. Sens public, (SP1596). http://sens-public.org/articles/1598/\nZuboff, S., Formentelli, B. et Homassel, A.-S. (2020). L’âge du capitalisme de surveillance : Le combat pour un avenir humain face aux nouvelles frontières du pouvoir. Zulma."
+  }
+]
