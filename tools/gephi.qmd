@@ -1,0 +1,20 @@
+---
+title: "Gephi"
+---
+
+## Résumé
+
+Gephi est un logiciel *open source* pour la visualisation et l'analyse de grands graphes de réseaux. Gephi utilise un moteur de rendu 3D pour afficher les graphes en temps réel et accélérer l'exploration.
+
+
+## Description
+
+[Gephi](https://gephi.org/) est un outil destiné aux analystes de données et aux scientifiques désireux d'explorer et de comprendre les graphiques. Comme Photoshop mais pour les données graphiques, l'utilisateur interagit avec la représentation, manipule les structures, les formes et les couleurs pour révéler des modèles cachés. L'objectif est d'aider les analystes de données à faire des hypothèses, à découvrir intuitivement des modèles, à isoler des singularités de structure ou des défauts lors de la recherche de données. Il s'agit d'un outil complémentaire aux statistiques traditionnelles, car la pensée visuelle avec des interfaces interactives est maintenant reconnue pour faciliter le raisonnement. Il s'agit d'un logiciel pour l'analyse exploratoire des données, un paradigme apparu dans le domaine de recherche des *Visual Analytics*.
+
+## Premiers pas
+
+Pour vous familiariser un peu avec le logiciel, vous pouvez suivre le très bon [tutoriel](https://www.martingrandjean.ch/gephi-introduction/) de Martin Grandjean.
+
+## Aperçu
+
+![Interface de Gephi présentée sur gephi.org](https://gephi.org/css/images/illustrations/home_screenshot.jpg)

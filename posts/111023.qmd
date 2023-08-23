@@ -1,0 +1,53 @@
+---
+title: "11 octobre 2023"
+---
+
+## Écrire sémantiquement
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/F3u_nb7ZSg20h_2ts0ZL4w#) pour accéder au pad collaboratif.
+
+:::
+
+<!-- ### Introduction
+### Définir l'écriture
+### Écriture technique, écriture numérique
+### Conclusion
+
+
+## Démonstration
+
+Brève présentation de l'éditeur de texte sémantique [Stylo](https://stylo.huma-num.fr/).
+
+Pour plus d'informations, se référer à la [page dédiée](/tools/stylo.html) à cet outil sur ce site Web.
+
+Aperçu du fonctionnement de l'interface de Stylo :
+
+![](/images/stylo.png)
+
+## Pour la semaine prochaine
+
+Lire : 
+
+- Merzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication et organisation, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158
+
+Lecture optionnelle :
+
+- Vitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens public. https://hal.archives-ouvertes.fr/hal-01599208
+
+## Atelier 
+
+[![L'éditorialisation présentée par Marcello Vitali-Rosati](https://webtv.univ-rouen.fr/public/videos/v125a98df8895hojvfvuesee4j2res/thumb.jpg)](https://webtv.univ-rouen.fr/videos/20-03-2018-095823-partie-2/)
+
+## Plan de cours 
+### Écriture et architecture
+#### Qu'est-ce qu'un espace ?
+#### Espace et écritures numériques
+### Éditorialisation
+### Conclusion
+
+## Pour la semaine prochaine
+
+Nous n'aurons pas de cours la semaine prochaine.   
+ -->

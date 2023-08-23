@@ -1,0 +1,11 @@
+---
+title: "29 novembre 2023"
+---
+
+## Analyser des données avec la programmation
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/FvUHn0UAT46ZQrG7ExxYbw#) pour accéder au pad collaboratif.
+
+:::

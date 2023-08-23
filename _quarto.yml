@@ -1,0 +1,52 @@
+project:
+  type: website
+
+website:
+  title: "HNU2000"      
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - index.qmd
+      - posts/bibliographie.qmd
+      - section: "Séances de cours"
+        contents:
+          - posts/060923.qmd
+          - posts/130923.qmd
+          - posts/200923.qmd
+          - posts/270923.qmd
+          - posts/041023.qmd
+          - posts/111023.qmd
+          - posts/251023.qmd
+          - posts/011123.qmd
+          - posts/081123.qmd
+          - posts/151123.qmd
+          - posts/221123.qmd
+          - posts/291123.qmd
+          - posts/061223.qmd
+      - section: "Outils"
+        contents:
+          - tools/escriptorium.qmd
+          - tools/gephi.qmd
+          - tools/git.qmd
+          - tools/hypothesis.qmd
+          - tools/isidore.qmd
+          - tools/omeka.qmd
+          - tools/opentheso.qmd
+          - tools/redaction.qmd
+          - tools/stylo.qmd
+          - tools/terminal.qmd
+          - tools/voyant-tools.qmd
+          - tools/zotero.qmd
+  page-footer: 
+    left : "© 2023 CC BY-NC-SA, Roch Delannay"
+    right : "Ce site a été réalisé avec [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+
+
+

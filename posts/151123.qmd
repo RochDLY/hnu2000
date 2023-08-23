@@ -1,0 +1,11 @@
+---
+title: "15 novembre 2023"
+---
+
+## Analyser du texte
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/LPlTIRlDQsO86JF7iIHstA#) pour accéder au pad collaboratif.
+
+:::

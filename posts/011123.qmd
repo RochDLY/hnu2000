@@ -1,0 +1,11 @@
+---
+title: "01 novembre 2023"
+---
+
+## Introduction à la programmation
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/uBc7aRnKSzCy8KDok304bg#) pour accéder au pad collaboratif.
+
+:::

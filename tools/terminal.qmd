@@ -1,0 +1,6 @@
+---
+title: "Le Terminal"
+---
+
+
+- Suivre ce [tutoriel](https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/) pour installer *bash* pour ceux qui travaillent avec le système d'exploitation Windows.

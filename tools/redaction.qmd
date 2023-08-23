@@ -1,0 +1,65 @@
+---
+title: "Conseils de rédaction"
+---
+
+::: {.callout-note collapse="true"}
+
+## Crédits
+
+Merci *@LucasFritz* pour ses précieux conseils de rédaction.
+
+:::
+
+## L'introduction
+
+- Introduire le sujet en donnant un contexte social et historique large et en resserant ce contexte sur votre sujet. 
+
+Exemple : *Dans un contexte de démocratisation de l'accès à l'éducation, les manuels scolaires standardisés sont apparus*, etc.
+
+- Justifier l'organisation de votre document en portant un jugement sur la nature des découpes que vous avex effectués. Il y a deux jugements importants : celui qui porte sur l'élimination d'une autre lecture qui pourrait être utile à première vue, et celui qui porte sur l'organisation des parties. 
+
+Exemple : *Il nous a (il m’a) semblé pertinent de comprendre les controverses autour des manuels scolaires à l’aune des récentes mesures de protection de l’environnement et de sensibilisation du public à la déforestation – ce qui est en jeu est moins le contenu du livre que son matériau, son support. Néanmoins le livre numérique pose la question environnementale de l’extraction de ses composantes, comme la question pédagogique de la formation des enseignants et des élèves.*
+
+- (Re)formuler la question puis présenter les différentes parties.
+
+Exemple : *Nous allons voir comment s'articule la controverse autour du manuel scolaire standardisé en X points :*
+
+## Les parties de la composition
+
+- Chaque partie a une fonction par rapport à l’ensemble, un rapport à une thématique plus précise qu’il faut présenter et illustrer à l’aide d’exemples. Dans le cas précis de l’analyse socio-technique il s’agit de présenter chaque catégorie de la controverse et les différents acteurs du mouvement.
+
+Exemple : *Les enjeux environnementaux autour du cahier standardisé intègrent de multiples acteurs principalement opposés sur la question de l’usage du papier dans l’enseignement.*
+
+- Les sous-parties précisent les étapes du débat, les désaccord et leur mode d’expression ( c’est la section la plus importante, elle ancre la controverse dans des noms d’acteurs précis ).
+
+Exemple : *Une première controverse a opposé Green-Peace Etats-Unis au géant Kindle, l’argument de Green-Peace relevé en France dans un article de Février 2018 par le magazine Gouvernance, Ethique et Développement, a été de souligner le caractère vétuste des chaînes de production de Kindle – et le coût environnemental de l’acheminement.*
+
+- Chaque partie et sous-partie se découpe traditionnellement en 3 voire 4 parties. Ces parties sont typographiquement invisibles : il ne faut pas les marquer d’un retour à la ligne ou autre. Néanmoins des marqueurs logiques permettent de rendre le mouvement visible.
+
+Exemple : *Dans un premier temps… en effet… néanmoins…* (transition)
+
+- Chaque partie est lié à l’autre partie par un phénomène de nécessité. Il faut montrer qu’il est nécessaire de regarder de l’autre côté.
+
+Exemple : *Pour apprécier la controverse autour de l’usage du papier, il est nécessaire/pertinent de regarder la controverse autour des représentations du savoir opposant les partisans de l’école traditionnelle à ceux de l’école de demain.*
+
+## La conclusion
+
+C’est la partie qui vous engage personnellement, d’une façon critique d’une part et auto-critique de l’autre.
+
+- Reprendre les mouvements du texte de façon succincte.
+
+Exemple : *Nous avons vu ceci, cela et enfin…*.
+
+- Repérer une tendance générale et tenter une explication de cette tendance à partir de ce que vous avez découvert (normalement il s’agit de répondre à la question formulée, nous allons travailler la formulation de question ultérieurement. Ici il s’agit de remarquer une inégalité dans le débat, d’expliquer pourquoi l’objet continue d’exister malgré les controverses et de souligner les forces qui le font exister)
+
+Exemple : *Nous pouvons considérer que l’influence des acteurs du monde de l’édition et les partisans d’un modèle pédagogique traditionnelle en France est plus forte que celle des partisans d’un modèle écologique et numérique...cela peut être dû à un manque d’autorité du ministère de la Transition écologique.*
+
+- Reconnaître ses limites, remettre en question votre méthode et/ou votre point de vue en indiquant des horizons possibles pour la recherche ( le manque de temps ne peut pas être à lui tout seul une explication)
+
+Exemple : *Néanmoins, la diversité des associations engagées dans cette controverse m’a obligé à réduire mon enquête à une seule/deux association(s)… il sera donc utile d’ouvrir le champ de la controverse a des acteurs plus petits pour comprendre les enjeux sur le terrain des individus…*
+
+Nb : Vous n’êtes pas obligé.e de reprendre exactement cette découpe – l’idée étant que le texte soit découpé logiquement en parties, elles-même découpées en sous-partie, elles mêmes ayant une fonction précise. Selon vos habitudes linguistiques l’écriture peut varier, mais il est impératif que l’organisation logique soit présente.
+
+Nb2 : Si vous avez du mal à cerner votre sujet c’est soit qu’il est trop large soit qu’il cible un concept différent de ce dont vous parlez : les controverses autour des vaccins en général et du concept même de vaccination intègrent des acteurs différents des controverses autour d’un vaccin en particulier (celui contre la grippe par exemple).
+
+Vous pouvez retrouver des arguments similaires mais ce sont des réseaux et des acteurs différents, notamment car les controverses autour d’un objet général (ici les vaccins) vous oblige à regarder la racine historique de la controverse (Pasteur notamment). L’un (le cas spécifique) est généralement plus contemporain que l’autre (le cas général). Attention à ne pas confondre un exemple particulier la famille à laquelle il appartient.

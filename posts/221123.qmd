@@ -1,0 +1,26 @@
+---
+title: "22 novembre 2023"
+---
+
+## Exploiter des données à travers la théorie des graphes
+
+Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son article ["Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations"](halshs-01610098v2) publié en 2017.
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/DBX6gmv5SWOI5msQuaNgFQ#) pour accéder au pad collaboratif.
+
+:::
+
+
+<!-- ### Qu'est-ce que la théorie des graphes
+
+#### Introduction
+
+#### Les graphes : quelques éléments théoriques
+
+#### Les graphes : comment les réaliser ?
+
+### Atelier
+
+### Pour la semaine prochaine -->

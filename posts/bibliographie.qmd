@@ -1,0 +1,78 @@
+---
+title: "Bibliographie"
+---
+
+## Références
+
+- Cardon, D. (2019). Identité en ligne. Dans Culture numérique (p. 176‑188). Presses de Sciences Po. https://www.cairn.info/culture-numerique--9782724623659-p-176.htm
+
+- Cassou-Noguès, P. (2022). "Mon Oncle", Dans *La Bienveillance des machines. Comment le numérique nous transforme à notre insu*. Seuil.
+
+- Delannay, R. (2022). La Bienveillance des machines : comment le numérique nous transforme à notre insu, de Pierre Cassou-Noguès. *Sens public*. http://sens-public.org/articles/1683/
+
+- Ertzscheid, O. (2013). *Qu’est-ce que l’identité numérique ?* OpenEdition Press.
+
+- Galinon-Mélénec, B. (s. d.). Homme-trace, corps, signes-traces et anthropologie de la communication. http://cahiers.sfsic.org/sfsic. http://cahiers.sfsic.org/sfsic/index.php?id=720
+
+- Gomez-Mejia, G. (2019). *Les fabriques de soi ? Identité et industrie sur le web*. MKF.
+
+- Merzeau, L. (2013b). L’intelligence des traces. *Intellectica. Revue de l’Association pour la Recherche Cognitive*, 59(1), 115‑135. https://doi.org/10.3406/intel.2013.1088
+
+- Merzeau, L. (2018). Le profil : un nouveau territoire imaginaire ? *Questions de communication*, n° 34(2), 41‑54.
+
+- Romele, A. et Severo, M. (2015). *Traces numériques et territoires* (Presses des Mines). http://books.openedition.org/pressesmines/1984
+
+- Saemmer, A. (2021). Bienvenue dans la Colonie facebook. *Hybrid. Revue des arts et médiations humaines*, (7). https://doi.org/10.4000/hybrid.675
+
+- Souchier, E. ; Gomez-Mejia, G. ; Candel, E. (2019). *Le numérique comme écriture : théorique et méthodes d’analyse*. Armand Colin.
+
+- Vitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? *Corela. Cognition, représentation, langage*, (HS-33). https://doi.org/10.4000/corela.11759
+
+## Références complémentaires 
+
+- Cardon, D. ; Casilli, A. (2015). *Qu’est-ce que le digital labor ?* INA Editions.
+
+- Carré D., Panico, R. (2010). « Le contrôle social à l’heure des technologies de mobilité et
+de connectivité : du fichage ciblé des individus au traçage continu des agissements », *Colloque Creis-Terminal*.
+
+- Casilli, Antonio A. (2010). *Les liaisons numériques : vers une nouvelle sociabilité ?* Seuil.
+
+- Castoriadis, C. (1975). *L’institution imaginaire de la société*. Seuil.
+
+- Crozat, S. (2016). Écrire avec une machine à calculer, écrire pour une machine à calculer. *I2D - Information, donnees documents*, 53(2), 62‑64.
+
+- Flichy, P. (2001). *L’imaginaire d’internet*. La Découverte.
+
+- Galinon-Mélénec, B. ; Liénard, F. ; Zlitni, S. (2015). *L’homme-trace : inscriptions corporelles et techniques*. CNRS Editions.
+
+- Goody, J. (1979). *La raison graphique : la domestication de la pensée sauvage*. Minuit.
+
+- Grandjean, M. (2017). Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations. ⟨halshs-01610098v2⟩
+
+- Hayles, N. K. (2015). *Parole, écriture, code*. Les Presses du réel.
+
+- Ingold, T. (2013). *Une brève histoire des lignes*. Zones sensibles.
+
+- Jeanneret, Y. (2019). *La fabrique de la trace*. ISTE Editions.
+
+- Kittler, F. A. (2015). *Mode protégé*. Les Presses du réel.
+
+- Kembellec, G. (2020). L’érudition numérique palimpseste. *Hermes*, La Revue, n° 87(2), 145‑158.
+
+- Lakoff et Johnson (1980 [1986]). *Les métaphores dans la vie quotidienne*. Minuit.
+
+- Mauss, M. (2007). *Essai sur le don : forme et raison de l'échange dans les sociétés archaïques don contre-don*. PUF.
+
+- Marx, K. (1968). *Le Capital. Livre I*. Gallimard.
+
+- Le billet de blog de Christophe Masutti : https://framablog.org/2022/08/29/bifurquer-avant-limpact-limpasse-du-capitalisme-de-surveillance/
+
+- Monjour, S. (2015). Dibutade 2.0 : la « femme-auteur » à l’ère du numérique. *Sens public*. https://doi.org/10.7202/1043638ar
+
+- Merzeau, L. (2013). Éditorialisation collaborative d’un événement. *Communication et organisation*, (43), 105‑122. https://doi.org/10.4000/communicationorganisation.4158
+
+- Vitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? *Sens public*. https://hal.archives-ouvertes.fr/hal-01599208
+
+- Vitali-Rosati, M. (2021). Pour une pensée préhumaine. *Sens public*, (SP1596). http://sens-public.org/articles/1598/
+
+- Zuboff, S., Formentelli, B. et Homassel, A.-S. (2020). *L’âge du capitalisme de surveillance : Le combat pour un avenir humain face aux nouvelles frontières du pouvoir*. Zulma.

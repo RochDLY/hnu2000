@@ -1,0 +1,11 @@
+---
+title: "27 septembre 2023"
+---
+
+## Annoter le Web
+
+::: {.callout-note}
+
+[Cliquez ici](https://demo.hedgedoc.org/5gYun6iNRZu5qMALk5_08A#) pour accéder au pad collaboratif.
+
+:::

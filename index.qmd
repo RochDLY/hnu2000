@@ -1,0 +1,158 @@
+---
+title: "Plan de cours"
+---
+
+## Humanités numériques : technologies
+
+Le cours "Humanités numérique : technologies" est dispensé à l'Université de Montréal au trimestre d'automne 2023.
+
+### Informations pratiques
+
+Le cours se tient en présentiel le mercredi de 15h30 à 18h30 en salle B-4310  Pav. 3200 J.-Brillant .  
+
+Contact : Roch Delannay - roch.delannay@umontreal.ca
+
+::: {.callout-note}
+
+Lorsque vous souhaitez m'envoyer un courriel, merci d'indiquer la mention "\[HNU2000\]" entre crochets au début de chaque objet attaché au message. 
+
+Exemple d'objet de courriel : \[HNU2000\] Questions relatives au cours du 06 septembre 2023.
+
+:::
+
+### Note importante
+
+Ce cours est programmé en présentiel à partir du mercredi 06 septembre 2023, les étudiant·e·s doivent donc être présent·e·s à toutes les séances tant que les conditions le permettent. Ce plan de cours est susceptible d’évoluer, les étudiant·e·s seront prévenu·e·s au fur et à mesure.
+
+### Présence et participation 
+
+En suivant ce cours vous vous engagez à venir autant que possible à chaque séance et à suivre les recommandations suivantes :
+
+- préparation : lectures demandées et relecture du cours ;
+- concentration : éviter les distractions pendant les séances ;
+- être actif·ve : écouter le cours, participer aux manipulations, poser des questions ;
+- écouter : lorsque d’autres étudiant·e·s prennent la parole, écoutez-les ;
+- créer des connexions : synthétiser et mettre en rapport les différents contenus présentés.
+
+::: {.callout-note}
+
+Il est attendu des étudiant·e·s qu'ils prennent des notes collaboratives pendant toute la durée du cours. Un éditeur de texte (hedgedoc) est mis à disposition en cliquant sur ce [lien](https://demo.hedgedoc.org/L7XprUNyQdaKgjHj-fR7YA?view).
+
+Les notes collaboratives constituent le principal support du cours : il revient aux étudiant·e·s de s'approprier au mieux cet espace et de construire les notes selon la structure qui leur convient le mieux. Les notes ne sont pas seulement un "outil" pour noter ce qui est dit lors de chacune des séances mais doivent aussi faire l'objet de compléments entre les séances (par exemple en ajoutant des références ou en complétant certains aspects, ou encore à inscrire des questions à poser à l'ensemble de la classe, étudiant·e ou enseignant, etc.).
+
+::: {.callout-important collapse="true"}
+
+Il est recommandé aux étudiant·e·s de s'authentifier sur l'application Hedgedoc (par exemple via l'instance GitHub pour ne pas multiplier les identifiants).
+
+:::
+
+:::
+
+## Objectifs
+
+Que sont les humanités numériques et quelles technologies sont utilisées dans cette approche scientifique ?
+Les « humanités numériques » sont à la fois une méthode scientifique, un programme de recherche ou une approche pluridisciplinaire : elles offrent de nouvelles perspectives pour appréhender, lire et comprendre le monde qui nous entoure.
+Depuis l’avènement du numérique, la compréhension des écosystèmes technologiques devient une nécessité dans le champ des sciences humaines.
+Le cours HNU 2000 « Humanités numériques : technologies » est une opportunité pour explorer de façon originale les outils théoriques et pratiques utilisés dans les humanités numériques : lire, écrire, chercher, explorer, visualiser, analyser, publier, etc. Ce cours est un espace de formation pratique et de découverte des méthodes de base en humanités numériques, avec une orientation vers les démarches d’écriture, d’édition et de publication.
+
+Ce cours est une initiation aux technologies utilisées dans les humanités numériques : les étudiant·e·s devront comprendre, explorer, manipuler et expérimenter des outils, des logiciels, des méthodes et des programmes informatiques.
+Le cours HNU 1000 « Humanités numériques : théories » est un compagnon de ce cours pratique.
+
+À l’issue du cours les étudiant·e·s seront en mesure de comprendre les enjeux technologiques des humanités numériques, de réutiliser des concepts liés aux humanités numériques, d’appréhender des méthodes utilisées dans les humanités numériques et d’utiliser des outils/applications.
+
+
+### Organisation des séances
+
+Les séances alterneront des "cours magistraux" ainsi que des "démonstrations techniques" autour de notions théoriques qui seront abordées. 
+
+Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personnel afin de profiter pleinement des enseignements dispensés.
+
+- [06 septembre 2023 - Introduction au cours « Humanités numériques : technologies »](posts/060923.qmd)
+- [13 septembre 2023 - 10 outils des Humanités Numériques](posts/130923.qmd)
+- [20 septembre 2023 - Chercher de l'information sur le Web](posts/200923.qmd)
+- [27 septembre 2023 - Annoter le Web](posts/270923.qmd)
+- [04 octobre 2023 - Récolter, organiser et partager des références bibliographiques](posts/041023.qmd)
+- [11 octobre 2023 - Écrire sémantiquement](posts/111023.qmd)
+- 18 octobre 2023 - Semaine de lecture
+- [25 octobre 2023 - Publier sur le Web](posts/251023.qmd)
+- [01 novembre 2023 - Introduction à la programmation](posts/011123.qmd)
+- [08 novembre 2023 - Récupérer et nettoyer des données sur le Web](posts/081123.qmd)
+- [15 novembre 2023 - Analyser du texte](posts/151123.qmd)
+- [22 novembre 2023 - Exploiter des données à travers la théorie des graphes](posts/221123.qmd)
+- [29 novembre 2023 - Analyser des données avec la programmation](posts/291123.qmd)
+- [06 décembre 2023 - Devoir sur table](posts/061223.qmd)
+
+### Modalités d'évaluations
+
+Trois modalités d'évaluation permettront aux étudiant·e·s de valider ce cours : 
+
+- Réalisation d'une présentation d'une méthode ou d'un outil (30%) ;
+- Un devoir sur table lors de la dernière séance (50%) ;
+- Contrôle continu (20%).
+
+#### Présentation
+
+Lors des premières semaines (jusqu’au 04 octobre) plusieurs projets, méthodes et outils issus des humanités numériques seront présentés brièvement, les étudiant·e·s devront en choisir un pour le présenter lors d’un exposé oral en classe à partir du 01 novembre. Votre choix doit être conduit par un réel intérêt. Voici les objectifs et les contraintes pour l’exposé :
+
+- présenter clairement un objet ;
+- partager un intérêt autour d’une initiative en humanités numériques ;
+- structurer une présentation ;
+- répondre aux questions pendant l’exposé ;
+- affirmer une position tout en étant ouvert·e aux remarques ;
+- temps imparti : 10 minutes pour l’exposé puis un temps d’échange avec l’enseignant et les étudiant·e·s ;
+- support de présentation recommandé (évitez de mettre trop de textes sur les diapositives, privilégiez les images/schémas/dessins).
+
+Et voici une proposition de plan à suivre ou dont vous pouvez vous inspirer (chaque élément doit être abordé pendant votre exposé) :
+
+- description courte : quelques mots qui présentent brièvement l’objet étudié ;
+- contexte : présentez les objectifs de cette initiative, pourquoi un tel projet/outil/méthode a été mis en place ? Pour qui et à quel fin ?
+- fonctionnement ou description technique : selon l’objet étudié présentez le fonctionnement ou les détails techniques du projet/outil/méthode ;
+- comparaison avec d’autres initiatives : effectuer une courte comparaison avec d’autres initiatives équivalentes ou proches en indiquant les points communs ou les éléments de différenciation ;
+- analyse critique (avec l’appui de références issues du cours ou de la bibliographie) : à partir des points précédents, proposer un point de vue argumenté sur l’objet. À quels besoins répond-il ? Pourquoi présente-t-il un intérêt ? Est-ce un outil superflu ou incontournable dans un champ donné ? etc. ;
+- conclusion : résumé synthétique de ce que vous venez de présenter avec une éventuelle ouverture.
+
+Enfin voici les dates importantes pour cet exercice :
+
+- jusqu’au 04 octobre : présentation par l’enseignant d’un certain nombre de projets, de méthodes ou d’outils pendant le cours (une liste sera mise à disposition) ;
+- avant le 11 octobre : les étudiant·e·s doivent indiquer leur choix, c’est-à-dire sur quoi portera leur exposé ;
+- le 20 octobre : dernier délai pour l’enseignant pour valider les sujets (si nécessaire une rencontre personnalisée peut être organisée) ;
+- à partir du 01 novembre : début des exposés pendant le cours (les étudiant·e·s seront informés de leur ordre de passage pendant la semaine de lecture).
+
+
+
+#### Devoir sur table
+
+::: {.callout-warning}
+
+Pensez à apporter des feuilles et des stylos  ! L'examen sera un devoir sur table  !
+
+:::
+
+Un ou plusieurs sujets au choix seront donnés lors de la dernière séance mercredi 6 décembre 2023.
+Un sujet devra faire l’objet d’une rédaction structurée comprise entre 8000 et 12000 signes (entre 1000 et 1600 mots), en utilisant les ressources du cours (supports, glossaire, lectures obligatoires, bibliographie).
+
+Critères de notation :
+
+- orthographe et grammaire ;
+- qualité de la rédaction ;
+- clarté du texte dans son ensemble (privilégier des phrases compréhensibles à des figures de styles) ;
+- argumentation de vos analyses :
+    - structure de votre texte (parties, sous-parties) ;
+    - illustrations de vos propos : descriptions, images, etc. ;
+    - utilisation du cours ;
+    - usage des références bibliographiques/lectures du cours (et pertinence de cet usage).
+
+
+#### Contrôle continu 
+
+Le contrôle continu comprends la participation en cours, les lectures et les annotations réalisées sur les différents supports donnés à l'occasion des séances de cours.
+
+## Informations complémentaires
+
+### Plagiat et fraude
+
+> « Tout acte de plagiat, fraude, copiage, tricherie ou falsification de document commis par une étudiante, un étudiant, de même que toute participation à ces actes ou tentative de les commettre, à l’occasion d’un examen ou d’un travail faisant l’objet d’une évaluation ou dans toute autre circonstance, constituent une infraction. Vous trouverez à l’adresse suivante les différentes formes de fraude et de plagiat ainsi que les sanctions prévues par l’Université : https://integrite.umontreal.ca »
+
+### Débugue tes humanités
+
+Pour ceux qui souhaitent suivre une formation gratuite, en ligne, sur les écritures numériques en sciences humaines et sociales, vous pouvez suivre [Débugue tes humanités](https://debugue.ecrituresnumeriques.ca/). Débugue est un programme dispensé à l'Université de Montréal par des chercheur·es en humanités numériques. Les séances se déroulent en mode hybride les mardis de 13h à 15h à raison de deux séances par mois. Le lien pour se connecter en visioconférence est disponible sur le site Web de la formation.

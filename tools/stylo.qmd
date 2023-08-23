@@ -1,0 +1,23 @@
+---
+title: "Stylo"
+---
+
+## Résumé 
+
+Stylo est un éditeur de texte en ligne spécialisé pour les SHS développé par la Chaire de recherche sur les écritures numériques au Canada.
+
+La documentation est disponible en cliquant sur ce [lien](http://stylo-doc.ecrituresnumeriques.ca/fr_FR/#!index.md).
+
+## Description
+
+[Stylo](https://stylo.huma-num.fr/) est un éditeur de texte sémantique développé par la Chaire de recherche du Canada sur les écritures numériques. Stylo est une solution SaaS (Software as a Service) hébergée par la TGIR des Humanités numériques Huma-Num, et centralise une multitude de fonctionnalités au coeur des enjeux de l’édition scientifique. Stylo permet, en plus de l’activité initiale d’écriture en Markdown, d’éditer les métadonnées d’un document, de suivre les évolutions d’un document grâce au versionnage de fichier, de gérer les données bibliographiques (notamment via Zotero ou en BibTeX), d’annoter les documents, de les partager avec des collaborateurs et, enfin, de les exporter dans différents formats. Cette dernière propriété repose sur Pandoc pour convertir les trois sources (YAML pour les métadonnées, Markdown pour le texte et BibTeX pour la bibliographie) vers les différents formats de sortie (*output*).
+
+## Premiers pas 
+
+Pour faire vos premiers pas avec ce logiciel, vous pouvez vous rendre sur cette [page Web](http://stylo-doc.ecrituresnumeriques.ca/fr_FR/#!pages/premierspas.md).
+
+Cette page vous aidera à créer un compte, à comprendre la structure des articles mais aussi l'ensemble des fonctionnalités basiques à votre disposition. 
+
+## Aperçu
+
+![](/images/stylo.png)
