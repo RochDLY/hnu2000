@@ -35,6 +35,20 @@
     "text": "Suivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
   },
   {
+    "objectID": "tools/git.html",
+    "href": "tools/git.html",
+    "title": "Git",
+    "section": "",
+    "text": "Git est un protocole de versionnage de documents. Plusieurs instances de ce protocole comme GitHub, GitLab ou Gitea permettent de versionner des scripts ou fichiers textes à partir d’interfaces graphiques ou plus communément à partir de lignes de commande. Le principe de versionnage repose sur la sauvegarde de toutes les modifications apportées à ces scripts sous la forme de commit. Ainsi, n’importe quel individu ayant accès au répertoire en question peut revenir sur les versions antérieures, comparer différentes versions entre elles et sécuriser ses données de travail. Au-delà d’un principe d’organisation des documents en usage personnel, Git a été conçu pour travailler collaborativement sur ces répertoires de données. Chaque collaborateur peut cloner le répertoire de documents en local et initier des modifications qui seront également suivies par toute l’équipe."
+  },
+  {
+    "objectID": "tools/omeka.html",
+    "href": "tools/omeka.html",
+    "title": "Omeka S",
+    "section": "",
+    "text": "Omeka S est un projet de Digital Scholar lancé en 2017 au Roy Rosenzweig Center for History and New Media avec le financement de plusieurs organisations. Les caractéristiques principales d’Omeka S viennent compléter le premier CMS développé par la même institution Omeka Classic : gestion d’un nombre illimité de sites web à partir d’une seule interface, conception de la base de données selon les principes du linked open data et interopérabilité avec d’autres systèmes notamment grâce à une API REST intégrée dans le logiciel. Sa construction s’appuie sur les technologies des bases de données relationnelles (MySQL, PHP) avec pour particularité d’indexer des items et les métadonnées qui y sont associées. Un changement de paradigme s’opère avec Omeka S, l’architecture traditionnelle des bases orientée “données” devient une architecture orientée “objet”."
+  },
+  {
     "objectID": "tools/gephi.html",
     "href": "tools/gephi.html",
     "title": "Gephi",
@@ -61,6 +75,20 @@
     "title": "Gephi",
     "section": "Aperçu",
     "text": "Aperçu\n\n\n\nInterface de Gephi présentée sur gephi.org"
+  },
+  {
+    "objectID": "tools/escriptorium.html",
+    "href": "tools/escriptorium.html",
+    "title": "eScriptorium",
+    "section": "",
+    "text": "eScriptorium est une application web adossée au moteur d’HTR (Handwritten text recognition) Kraken. Elle est principalement développée par le projet SCRIPTA (PSL) mais, étant un projet entièrement ouvert, elle a reçu et reçoit toujours des contributions de la part de plusieurs partenaires sous la forme de développement de fonctionnalités ou d’éléments de documentation, notamment de la part d’Inria (ALMAnaCH) et de l’Université du Maryland (OpenITI)."
+  },
+  {
+    "objectID": "tools/escriptorium.html#exemples-dutilisation",
+    "href": "tools/escriptorium.html#exemples-dutilisation",
+    "title": "eScriptorium",
+    "section": "Exemples d’utilisation",
+    "text": "Exemples d’utilisation\nDeux types d’exemples peuvent être présentés :\n\nSans moteur d’HTR, comme plateforme ergonomique de transcription (notamment pour la création de données d’entraînement) ;\nVia moteur d’HTR, pour des projets qui visent :\n\nà rendre accessibles des fonds patrimoniaux (cf. LECTAUREP) ;\nà créer des éditions numériques à partir du texte produit automatiquement (cf. e-Notre-Dame-de-Paris) ;\nà créer des données sur lesquels appliquer des outils d’analyse de texte."
   },
   {
     "objectID": "tools/redaction.html",
