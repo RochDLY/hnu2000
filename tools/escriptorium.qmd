@@ -1,3 +1,18 @@
 ---
 title: "eScriptorium"
 ---
+
+## Description
+
+[eScriptorium](https://escriptorium.inria.fr/) est une application web adossée au moteur d'HTR (_Handwritten text recognition_) [Kraken](https://kraken.re/master/index.html).
+Elle est principalement développée par le projet [SCRIPTA (PSL)](https://scripta.psl.eu) mais, étant un projet entièrement ouvert, elle a reçu et reçoit toujours des contributions de la part de plusieurs partenaires sous la forme de développement de fonctionnalités ou d'éléments de documentation, notamment de la part d'Inria ([ALMAnaCH](http://almanach.inria.fr/index-en.html)) et de l'Université du Maryland ([OpenITI](https://openiti.org/)).
+
+## Exemples d'utilisation
+
+Deux types d'exemples peuvent être présentés :
+
+- Sans moteur d'HTR, comme plateforme ergonomique de transcription (notamment pour la création de données d'entraînement) ;
+- Via moteur d'HTR, pour des projets qui visent :
+    - à rendre accessibles des fonds patrimoniaux (cf. [LECTAUREP](https://lectaurep.hypotheses.org/)) ;
+    - à créer des éditions numériques à partir du texte produit automatiquement (cf. [e-Notre-Dame-de-Paris](https://lamop.pantheonsorbonne.fr/e-ndp)) ;
+    - à créer des données sur lesquels appliquer des outils d'analyse de texte.
