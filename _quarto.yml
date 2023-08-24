@@ -47,6 +47,11 @@ format:
     theme: flatly
     css: styles.css
     toc: true
+    citations-hover: true
+    footnotes-hover: true
+    nocite: |
+      @*
+    csl: bibliographie/csl/apa.csl
 
 
 
