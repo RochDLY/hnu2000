@@ -1,5 +1,7 @@
 ---
 title: "06 septembre 2023"
+bibliography: bibliographie/hnu2000.bib
+nocite: false
 ---
 
 ## Introduction au cours « Humanités numériques : technologies »
@@ -10,17 +12,30 @@ title: "06 septembre 2023"
 
 :::
 
+Support de présentation ([plein écran](/slides/seance1.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance1.html"></iframe>
+```
+
 ## Atelier
 
 - Désigner un Secrétaire pour les notes collaboratives.
 
 - Exercice : 
 
-1. Réaliser le tutoriel du langage de balisage Markdown : [https://www.arthurperret.fr/tutomd/tutorial/tutorial.html](https://www.arthurperret.fr/tutomd/tutorial/tutorial.html) ;
-2. Se présenter en 3 lignes dans le pad du 13 septembre.
+    1. Réaliser le tutoriel du langage de balisage Markdown : [https://www.arthurperret.fr/tutomd/tutorial/tutorial.html](https://www.arthurperret.fr/tutomd/tutorial/tutorial.html) ;
+    2. Se présenter en 3 lignes dans le pad du 13 septembre.
 
 ::: {.callout-caution}
 
 Attention à ne pas effacer les informations ajoutées par les autres étudiant·e·s !
 
 :::
+
+## Pour la semaine prochaine
+
+- Terminer le tutoriel Markdown et la présentation dans le pad
+- Fouiller le site web ressource et préparer des questions
+- lire [@mounierManifesteDigitalHumanities2010]

@@ -1,5 +1,7 @@
 ---
 title: "13 septembre 2023"
+bibliography: bibliographie/hnu2000.bib
+nocite: false
 ---
 
 ## 10 outils des Humanités Numériques
@@ -9,3 +11,38 @@ title: "13 septembre 2023"
 [Cliquez ici](https://demo.hedgedoc.org/VmJqTClJQryCNSCBNfKGyw#) pour accéder au pad collaboratif.
 
 :::
+
+```{=html}
+
+<iframe src="/slides/seance2.html"></iframe>
+```
+
+
+## Les devoirs de la semaine précédente
+
+- Terminer le tutoriel Markdown et la présentation dans le pad
+- Fouiller le site web ressource et préparer des questions
+- lire [@mounierManifesteDigitalHumanities2010]
+
+
+## Exercice
+
+Choisissez deux outils que vous aimeriez étudier et présenter.
+
+(En répondant à deux questions : pourquoi ce choix ? quel(s) usage(s) en avez/aurez-vous ?)
+
+##  Qu'est-ce qu'une étude de cas ?
+
+- analyse d’un objet/projet
+- comprendre les implications scientifiques, techniques et fonctionnelles
+- description et regard critique
+- expérimenter
+
+L’étude de cas est une analyse d’un objet ou d’un projet permettant d’en comprendre les implications scientifiques, techniques et fonctionnelles. À la fois description référencée et sourcée, et regard critique, une étude de cas est un travail synthétique qui répond à des questions comme « qui ? », « comment ? », « pourquoi ? » ou « quand ? ».
+En décrivant les origines et le fonctionnement d’un objet, l’analyse de cas vise à expliquer l’intention initiale ainsi que de mesurer la pertinence de la démarche dans un contexte.
+
+C’est un exercice qui requiert de la méthode, ainsi que des recherches et des manipulations. Dans le cadre de ce cours en partie pratique, il est important de tester soi-même l’objet étudié afin d’en tirer une expérience.
+
+## Pour la semaine prochaine
+
+- lire [@redactionISIDORE10Ans2021]

@@ -4,6 +4,14 @@ title: "Plan de cours"
 
 ## Humanités numériques : technologies
 
+::: {.callout-note collapse="true"}
+
+## Crédits
+
+Merci *@AntoineFauchié* pour sa précieuse aide dans la construction de ce cours ainsi que pour m'avoir donné accès à ses supports.
+
+:::
+
 Le cours "Humanités numérique : technologies" est dispensé à l'Université de Montréal au trimestre d'automne 2023.
 
 ### Informations pratiques
