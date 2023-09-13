@@ -12,6 +12,8 @@ nocite: false
 
 :::
 
+Support de présentation ([plein écran](/slides/seance2.html){target="_blank"}):
+
 ```{=html}
 
 <iframe src="/slides/seance2.html"></iframe>

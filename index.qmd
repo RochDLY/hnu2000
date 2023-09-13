@@ -8,7 +8,7 @@ title: "Plan de cours"
 
 ## Crédits
 
-Merci *@AntoineFauchié* pour sa précieuse aide dans la construction de ce cours ainsi que pour m'avoir donné accès à ses supports.
+Merci [*@AntoineFauchié*](https://www.quaternum.net/) pour sa précieuse aide dans la construction de ce cours ainsi que pour m'avoir donné accès à ses supports.
 
 :::
 
