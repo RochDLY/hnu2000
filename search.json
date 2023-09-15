@@ -249,7 +249,28 @@
     "href": "posts/200923.html",
     "title": "20 septembre 2023",
     "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif."
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\nSupport de présentation (plein écran):"
+  },
+  {
+    "objectID": "posts/200923.html#les-devoirs-de-la-semaine-précédente",
+    "href": "posts/200923.html#les-devoirs-de-la-semaine-précédente",
+    "title": "20 septembre 2023",
+    "section": "Les devoirs de la semaine précédente",
+    "text": "Les devoirs de la semaine précédente\n\nlire (Rédaction, 2021)"
+  },
+  {
+    "objectID": "posts/200923.html#exercice",
+    "href": "posts/200923.html#exercice",
+    "title": "20 septembre 2023",
+    "section": "Exercice",
+    "text": "Exercice\n\nconstituez une bibliographie dans Isidore.science sur les humanités numériques et l’édition\npour cela vous devez vous créer un compte Isidore (et donc HumanID)\nutilisez les fonctionnalités de la recherche avancée (un peu cachée : https://isidore.science/as) ;\nutilisez les fonctions de tris et de facettes ;\npartagez avec moi votre « bibliothèque ».\n\nÀ partir de cette expérience, que manque-t-il à Isidore ? Quels sont ses défauts ?"
+  },
+  {
+    "objectID": "posts/200923.html#pour-la-semaine-prochaine",
+    "href": "posts/200923.html#pour-la-semaine-prochaine",
+    "title": "20 septembre 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine\n\nLire (Fredriksson & Sauret, 2019)"
   },
   {
     "objectID": "posts/151123.html",
@@ -270,6 +291,6 @@
     "href": "posts/bibliographie.html",
     "title": "Bibliographie",
     "section": "",
-    "text": "Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). Digital_humanities. MIT Press.\n\n\nCoombs, J. H., Renear, A. H., & DeRose, S. J. (1987). Markup systems and the future of scholarly text processing. Communications of the ACM, 30(11), 933–947. https://doi.org/10.1145/32206.32209\n\n\nDeRose, S. J., Durand, D. G., Mylonas, E., & Renear, A. H. (1990). What is text, really? Journal of Computing in Higher Education, 1(2), 3–26. https://doi.org/10.1007/BF02941632\n\n\nEberle-Sinatra, M., & Vitali-Rosati, M. (2014). Pratiques de l’édition numérique. http://parcoursnumeriques-pum.ca/pratiques\n\n\nFayyad, U., Piatetsky-Shapiro, G., & Smyth, P. (1996). From Data Mining to Knowledge Discovery in Databases. AI Magazine, 17(3), 37–37. https://doi.org/10.1609/aimag.v17i3.1230\n\n\nGil, A. (2017). Placing Césaire. Continents Manuscrits. Génétique Des Textes Littéraires – Afrique, Caraïbe, Diaspora, 8. https://doi.org/10.4000/coma.852\n\n\nGrandjean, M. (2017). Structures complexes et organisations internationales. https://doi.org/10.14647/87204\n\n\nJockers, M. L., & Underwood, T. (2015). Text-Mining the Humanities. In A New Companion to Digital Humanities (pp. 291–306). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118680605.ch20\n\n\nKnuth, D. E. (1984). Literate Programming. The Computer Journal, 27(2), 97–111. https://doi.org/10.1093/comjnl/27.2.97\n\n\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication Et Organisation, 43, 105–122. https://doi.org/https://doi.org/10.4000/communicationorganisation.4158\n\n\nMounier, P. (2018). IBM ou International Busa Machines ? De l’informatique aux humanités. In Les humanités numériques : Une histoire critique (pp. 21–43). Éditions de la Maison des sciences de l’homme. http://books.openedition.org/editionsmsh/12033\n\n\nMounier, P. (2010). Manifeste des Digital Humanities. Journal Des Anthropologues. Association Française Des Anthropologues, 122-123, 447–452. https://doi.org/10.4000/jda.3652\n\n\nRédaction. (2021). ISIDORE a 10 ans ! [Billet]. In Le blog d’Huma-Num et de ses consortiums. https://humanum.hypotheses.org/6762\n\n\nSinclair, S., & Rockwell, G. (2015). Text Analysis and Visualization: Making Meaning Count (pp. 274–290). https://doi.org/10.1002/9781118680605.ch19\n\n\nSouchier, E., Candel, É., & Gomez-Mejia, G. (2019). Chapitre 1. Le numérique, c’est de l’écriture. In Le numérique comme écriture (pp. 21–77). Armand Colin. https://www.cairn.info/le-numerique-comme-ecriture--9782200618582-p-21.htm\n\n\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens Public. https://hal.archives-ouvertes.fr/hal-01599208\n\n\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, Représentation, Langage, HS-33. https://doi.org/10.4000/corela.11759"
+    "text": "Burdick, A., Drucker, J., Lunenfeld, P., Presner, T., & Schnapp, J. (2012). Digital_humanities. MIT Press.\n\n\nCoombs, J. H., Renear, A. H., & DeRose, S. J. (1987). Markup systems and the future of scholarly text processing. Communications of the ACM, 30(11), 933–947. https://doi.org/10.1145/32206.32209\n\n\nDeRose, S. J., Durand, D. G., Mylonas, E., & Renear, A. H. (1990). What is text, really? Journal of Computing in Higher Education, 1(2), 3–26. https://doi.org/10.1007/BF02941632\n\n\nEberle-Sinatra, M., & Vitali-Rosati, M. (2014). Pratiques de l’édition numérique. http://parcoursnumeriques-pum.ca/pratiques\n\n\nFayyad, U., Piatetsky-Shapiro, G., & Smyth, P. (1996). From Data Mining to Knowledge Discovery in Databases. AI Magazine, 17(3), 37–37. https://doi.org/10.1609/aimag.v17i3.1230\n\n\nFredriksson, S., & Sauret, N. (2019). Écrire les communs. Au-devant de l’irréversible. Sens Public. http://sens-public.org/dossiers/1383/\n\n\nGil, A. (2017). Placing Césaire. Continents Manuscrits. Génétique Des Textes Littéraires – Afrique, Caraïbe, Diaspora, 8. https://doi.org/10.4000/coma.852\n\n\nGrandjean, M. (2017). Structures complexes et organisations internationales. https://doi.org/10.14647/87204\n\n\nJockers, M. L., & Underwood, T. (2015). Text-Mining the Humanities. In A New Companion to Digital Humanities (pp. 291–306). John Wiley & Sons, Ltd. https://doi.org/10.1002/9781118680605.ch20\n\n\nKnuth, D. E. (1984). Literate Programming. The Computer Journal, 27(2), 97–111. https://doi.org/10.1093/comjnl/27.2.97\n\n\nMerzeau, L. (2013). Éditorialisation collaborative d’un événement. Communication Et Organisation, 43, 105–122. https://doi.org/https://doi.org/10.4000/communicationorganisation.4158\n\n\nMounier, P. (2018). IBM ou International Busa Machines ? De l’informatique aux humanités. In Les humanités numériques : Une histoire critique (pp. 21–43). Éditions de la Maison des sciences de l’homme. http://books.openedition.org/editionsmsh/12033\n\n\nMounier, P. (2010). Manifeste des Digital Humanities. Journal Des Anthropologues. Association Française Des Anthropologues, 122-123, 447–452. https://doi.org/10.4000/jda.3652\n\n\nRédaction. (2021). ISIDORE a 10 ans ! [Billet]. In Le blog d’Huma-Num et de ses consortiums. https://humanum.hypotheses.org/6762\n\n\nSinclair, S., & Rockwell, G. (2015). Text Analysis and Visualization: Making Meaning Count (pp. 274–290). https://doi.org/10.1002/9781118680605.ch19\n\n\nSouchier, E., Candel, É., & Gomez-Mejia, G. (2019). Chapitre 1. Le numérique, c’est de l’écriture. In Le numérique comme écriture (pp. 21–77). Armand Colin. https://www.cairn.info/le-numerique-comme-ecriture--9782200618582-p-21.htm\n\n\nVitali-Rosati, M. (2016). Qu’est-ce que l’éditorialisation ? Sens Public. https://hal.archives-ouvertes.fr/hal-01599208\n\n\nVitali-Rosati, M. (2020). Qu’est-ce que l’écriture numérique ? Corela. Cognition, Représentation, Langage, HS-33. https://doi.org/10.4000/corela.11759"
   }
 ]
