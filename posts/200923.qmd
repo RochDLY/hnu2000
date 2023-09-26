@@ -1,5 +1,7 @@
 ---
 title: "20 septembre 2023"
+bibliography: bibliographie/hnu2000.bib
+nocite: false
 ---
 
 ## Chercher de l'information sur le Web
@@ -9,3 +11,28 @@ title: "20 septembre 2023"
 [Cliquez ici](https://demo.hedgedoc.org/iyx1wCdLRyS-KWIzNufvwQ#) pour accéder au pad collaboratif.
 
 :::
+
+Support de présentation ([plein écran](/slides/seance3.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance3.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+- lire [@redactionISIDORE10Ans2021]
+
+## Exercice
+
+- constituez une bibliographie dans Isidore.science sur les humanités numériques et l’édition
+- pour cela vous devez vous créer un compte Isidore (et donc HumanID)
+- utilisez les fonctionnalités de la recherche avancée (un peu cachée : https://isidore.science/as) ;
+- utilisez les fonctions de tris et de facettes ;
+- partagez avec moi votre « bibliothèque ».
+
+À partir de cette expérience, que manque-t-il à Isidore ? Quels sont ses défauts ? 
+
+## Pour la semaine prochaine
+
+- Lire [@fredrikssonEcrireCommunsAudevant2019]

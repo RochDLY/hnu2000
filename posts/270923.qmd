@@ -1,5 +1,7 @@
 ---
 title: "27 septembre 2023"
+bibliography: bibliographie/hnu2000.bib
+nocite: false
 ---
 
 ## Annoter le Web
@@ -9,3 +11,43 @@ title: "27 septembre 2023"
 [Cliquez ici](https://demo.hedgedoc.org/5gYun6iNRZu5qMALk5_08A#) pour accéder au pad collaboratif.
 
 :::
+
+
+Support de présentation ([plein écran](/slides/seance4.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance4.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+- Lire [@fredrikssonEcrireCommunsAudevant2019]
+
+## Exercices
+
+### Exercice 1 : Annoter
+
+- créez vous un compte Hypothesis
+- affichez la page de la séance
+- connectez-vous à Hypothesis
+- **annotez cette page en indiquant quelques questions**
+- rendez-vous sur la page de votre profil Hypothesis
+
+### Exercice 2 : Partager
+
+- rejoignez le groupe privé dédié au cours : [https://hypothes.is/groups/YzarrM7E/hnu2000-2023](https://hypothes.is/groups/YzarrM7E/hnu2000-2023)
+- modifiez vos annotations pour qu'elles fassent partie du groupe privé
+- ajoutez des tags à vos annotations
+- répondez à quelques annotations existantes
+
+### Exercice 3 : Rechercher
+
+- sur la page https://hypothes.is/ vous poouvez rechercher des annotations
+- effectuez quelques recherches avec l'expression url:https://adresse.com/* avec les adresses de votre choix
+- sur la page https://jonudell.info/h/facet/ effectuez à nouveau ces recherches et exportez-les en JSON
+
+## Pour la semaine prochaine
+
+- Lire [@collectifPourquoiZotero2018].
+- Annoter le texte et publier les annotations dans le groupe HNU2000-2023. Pour accéder au texte via Hypothesis, cliquez sur ce [lien](https://via.hypothes.is/https://zotero.hypotheses.org/1998). 
