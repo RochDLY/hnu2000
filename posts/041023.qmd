@@ -1,5 +1,7 @@
 ---
 title: "04 octobre 2023"
+bibliography: bibliographie/hnu2000.bib
+nocite: false
 ---
 
 ## Récolter, organiser et partager des références bibliographiques
@@ -9,3 +11,51 @@ title: "04 octobre 2023"
 [Cliquez ici](https://demo.hedgedoc.org/DFXNFmH5RRuze7SiWDP4fA#) pour accéder au pad collaboratif.
 
 :::
+
+Support de présentation ([plein écran](/slides/seance5.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance5.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+- Lire [@collectifPourquoiZotero2018].
+- Annoter le texte et publier les annotations dans le groupe HNU2000-2023. Pour accéder au texte via Hypothesis, cliquez sur ce [lien](https://via.hypothes.is/https://zotero.hypotheses.org/1998).
+
+## Exercices 
+
+### Exercice 1 : enregistrer et classer 
+
+- prérequis : créer un compte Zotero 
+- installation du logiciel Zotero + extension (selon votre navigateur) 
+- chercher et enregistrer 10 références sur les logiciels libres 
+
+### Exercice 2 : citer et bibliographer
+
+- créer une collection et classer vos références dans ce dossier 
+- sélectionner une référence et faites CTRL+MAJ+A 
+- coller la citation dans un document Word/LibreOffice 
+- modifier le style bibliographique par défaut dans Édition > Préférences > Exportation 
+- essayer à nouveau de copier-coller une référence 
+- créer une bibliographie en faisant clic droit sur la collection puis Créer une bibliographie... 
+- coller le résultat dans une document 
+
+### Exercice 3 : collaborer ou partager 
+
+- indiquer votre _username_ pour que je puisse vous ajouter au groupe [HNU2000](https://www.zotero.org/groups/5156959/hnu2000) 
+- ajouter une référence sur le logiciel dans ce groupe, dans la sous-collection `exercice041023` 
+- créer un nouveau groupe et m'inviter (RochDLY)
+
+### Exercice 4 : exporter et sauvegarder 
+
+- installer l'extension BetterBibTeX : https://retorque.re/zotero-better-bibtex/installation/ 
+- modifier le style des clés dans Édition > Préférences > BetterBibTeX > Citations Keys avec `zotero.clean` 
+- exporter une collection au format BetterBibTeX et cocher « garder à jour »
+
+## Pour la semaine prochaine 
+
+- Lire [@vitali-rosatiEcrireSHSEnvironnement2020a]
+- Créer un compte [HumanId](https://humanid.huma-num.fr/) si vous n'en avez pas
+- Se connecter à [Stylo](https://stylo.huma-num.fr/) et parcourir briévement l'interface

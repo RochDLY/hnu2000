@@ -6,6 +6,7 @@ website:
   sidebar:
     style: "floating"
     search: true
+    collapse-level: 1
     contents:
       - index.qmd
       - posts/bibliographie.qmd
