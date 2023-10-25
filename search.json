@@ -207,7 +207,28 @@
     "href": "posts/011123.html",
     "title": "01 novembre 2023",
     "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\n\n\n\nPrésentation Basile"
+    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\nSupport de présentation (plein écran):"
+  },
+  {
+    "objectID": "posts/011123.html#les-devoirs-de-la-semaine-précédente",
+    "href": "posts/011123.html#les-devoirs-de-la-semaine-précédente",
+    "title": "01 novembre 2023",
+    "section": "Les devoirs de la semaine précédente",
+    "text": "Les devoirs de la semaine précédente\n\nLire (Blanchard, 2010)"
+  },
+  {
+    "objectID": "posts/011123.html#atelier",
+    "href": "posts/011123.html#atelier",
+    "title": "01 novembre 2023",
+    "section": "Atelier",
+    "text": "Atelier\n\nPrésentation Basile"
+  },
+  {
+    "objectID": "posts/011123.html#pour-la-semaine-prochaine",
+    "href": "posts/011123.html#pour-la-semaine-prochaine",
+    "title": "01 novembre 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine\n\nInstaller un environnement de travail Python : https://www.python.org/\n\nEn installant Python sur votre ordinateur vous aurez accès à IDLE, un environnement d’écriture dédié au langage de programmation Python.\nCependant, si vous souhaitez un environnement un peu plus spécialisé, vous pouvez vous tourner vers l’environnement de développement préféré comme Atom ou VSCode, ou encore des environnements plus complets comme Anaconda, sa version plus légère Miniconda, ou simplement des Jupyter Notebook."
   },
   {
     "objectID": "posts/291123.html",
