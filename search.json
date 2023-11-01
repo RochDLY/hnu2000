@@ -228,7 +228,7 @@
     "href": "posts/011123.html#pour-la-semaine-prochaine",
     "title": "01 novembre 2023",
     "section": "Pour la semaine prochaine",
-    "text": "Pour la semaine prochaine\n\nInstaller un environnement de travail Python : https://www.python.org/\n\nEn installant Python sur votre ordinateur vous aurez accès à IDLE, un environnement d’écriture dédié au langage de programmation Python.\nCependant, si vous souhaitez un environnement un peu plus spécialisé, vous pouvez vous tourner vers l’environnement de développement préféré comme Atom ou VSCode, ou encore des environnements plus complets comme Anaconda, sa version plus légère Miniconda, ou simplement des Jupyter Notebook."
+    "text": "Pour la semaine prochaine\n\nInstaller un environnement de travail Python : https://www.python.org/\n\nEn installant Python sur votre ordinateur vous aurez accès à IDLE, un environnement d’écriture dédié au langage de programmation Python.\nCependant, si vous souhaitez un environnement un peu plus spécialisé, vous pouvez vous tourner vers l’environnement de développement préféré comme Atom ou VSCode, ou encore des environnements plus complets comme Anaconda, sa version plus légère Miniconda, ou simplement des Jupyter Notebook.\n\nCréer un article dans l’éditeur de texte Stylo et raconter, comme pour un billet de blog, votre expérience de configuration de votre environnement de travail pour Python.\nPartager cet article avec moi (roch.delannay@umontreal.ca) dans Stylo."
   },
   {
     "objectID": "posts/291123.html",
