@@ -2,7 +2,9 @@
 title: "29 novembre 2023"
 ---
 
-## Analyser des données avec la programmation
+## Exploiter des données à travers la théorie des graphes
+
+Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son article ["Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations"](halshs-01610098v2) publié en 2017.
 
 ::: {.callout-note}
 

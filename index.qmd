@@ -80,14 +80,14 @@ Il est souhaité que les étudiant·e·s se munissent de leur ordinateur personn
 - [20 septembre 2023 - Chercher de l'information sur le Web](posts/200923.qmd)
 - [27 septembre 2023 - Annoter le Web](posts/270923.qmd)
 - [04 octobre 2023 - Récolter, organiser et partager des références bibliographiques](posts/041023.qmd)
-- [11 octobre 2023 - Écrire sémantiquement](posts/111023.qmd)
+- [11 octobre 2023 - Colloque du CRIHN 2023](posts/111023.qmd)
 - 18 octobre 2023 - Semaine de lecture
-- [25 octobre 2023 - Publier sur le Web](posts/251023.qmd)
-- [01 novembre 2023 - Introduction à la programmation](posts/011123.qmd)
-- [08 novembre 2023 - Récupérer et nettoyer des données sur le Web](posts/081123.qmd)
-- [15 novembre 2023 - Analyser du texte](posts/151123.qmd)
-- [22 novembre 2023 - Exploiter des données à travers la théorie des graphes](posts/221123.qmd)
-- [29 novembre 2023 - Analyser des données avec la programmation](posts/291123.qmd)
+- [25 octobre 2023 - Écrire sémantiquement](posts/251023.qmd)
+- [01 novembre 2023 - Publier sur le Web](posts/011123.qmd)
+- [08 novembre 2023 - Introduction à la programmation](posts/081123.qmd)
+- [15 novembre 2023 - Récupérer et nettoyer des données sur le Web](posts/151123.qmd)
+- [22 novembre 2023 - Analyser du texte](posts/221123.qmd)
+- [29 novembre 2023 - Exploiter des données à travers la théorie des graphes](posts/291123.qmd)
 - [06 décembre 2023 - Devoir sur table](posts/061223.qmd)
 
 ### Modalités d'évaluations

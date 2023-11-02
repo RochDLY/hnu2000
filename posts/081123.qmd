@@ -2,10 +2,13 @@
 title: "08 novembre 2023"
 ---
 
-## Récupérer et nettoyer des données sur le Web
+## Introduction à la programmation
 
 ::: {.callout-note}
 
 [Cliquez ici](https://demo.hedgedoc.org/MIbtWd_LScKUosSnqswAgA#) pour accéder au pad collaboratif.
 
 :::
+
+
+- Présentation Rachel

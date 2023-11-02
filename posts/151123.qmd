@@ -2,10 +2,13 @@
 title: "15 novembre 2023"
 ---
 
-## Analyser du texte
+## Récupérer et nettoyer des données sur le Web
 
 ::: {.callout-note}
 
 [Cliquez ici](https://demo.hedgedoc.org/LPlTIRlDQsO86JF7iIHstA#) pour accéder au pad collaboratif.
 
 :::
+
+- Présentation Janette
+

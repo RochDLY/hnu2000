@@ -1,11 +1,40 @@
 ---
 title: "01 novembre 2023"
+bibliography: bibliographie/HNU2000.bib
+nocite: false
 ---
 
-## Introduction à la programmation
+## Publier sur le Web
 
 ::: {.callout-note}
 
 [Cliquez ici](https://demo.hedgedoc.org/uBc7aRnKSzCy8KDok304bg#) pour accéder au pad collaboratif.
 
 :::
+
+Support de présentation ([plein écran](/slides/seance7.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance7.html"></iframe>
+```
+
+
+## Les devoirs de la semaine précédente
+
+- Lire [@blanchard_ce_2010]
+
+## Atelier
+
+- Présentation Basile
+
+## Pour la semaine prochaine 
+
+- Installer un environnement de travail Python : https://www.python.org/
+
+En installant Python sur votre ordinateur vous aurez accès à IDLE, un environnement d'écriture dédié au langage de programmation Python. 
+
+Cependant, si vous souhaitez un environnement un peu plus spécialisé, vous pouvez vous tourner vers l'environnement de développement préféré comme [Atom](https://atom-editor.cc/) ou [VSCode](https://code.visualstudio.com/), ou encore des environnements plus complets comme [Anaconda](https://docs.anaconda.com/free/anaconda/install/), sa version plus légère [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/), ou simplement des [Jupyter Notebook](https://jupyter.org/).
+
+- Créer un article dans l'éditeur de texte Stylo et raconter, comme pour un billet de blog, votre expérience de configuration de votre environnement de travail pour Python.
+- Partager cet article avec moi (roch.delannay@umontreal.ca) dans Stylo.

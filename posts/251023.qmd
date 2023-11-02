@@ -1,8 +1,10 @@
 ---
 title: "25 octobre 2023"
+bibliography: bibliographie/HNU2000.bib
+nocite: false
 ---
 
-## Publier sur le Web
+## Écrire sémantiquement
 
 ::: {.callout-note}
 
@@ -10,4 +12,19 @@ title: "25 octobre 2023"
 
 :::
 
-### Plan de la séance
+Support de présentation ([plein écran](/slides/seance6.html){target="_blank"}):
+
+```{=html}
+
+<iframe src="/slides/seance6.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+- Lire [@vitali-rosatiEcrireSHSEnvironnement2020a]
+- Créer un compte [HumanId](https://humanid.huma-num.fr/) si vous n'en avez pas
+- Se connecter à [Stylo](https://stylo.huma-num.fr/) et parcourir briévement l'interface
+
+## Pour la semaine prochaine
+
+- Lire [@blanchard_ce_2010]
