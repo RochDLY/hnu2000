@@ -35,6 +35,34 @@
     "text": "Suivre ce tutoriel pour installer bash pour ceux qui travaillent avec le système d’exploitation Windows."
   },
   {
+    "objectID": "tools/terminal.html#pourquoi-utiliser-le-terminal",
+    "href": "tools/terminal.html#pourquoi-utiliser-le-terminal",
+    "title": "Le Terminal",
+    "section": "Pourquoi utiliser le terminal ?",
+    "text": "Pourquoi utiliser le terminal ?\n\nExécuter des scripts Python ;\nInstaller des logiciels et des paquets Python ;\nTravailler sur différents ordinateurs depuis votre client ;\nExécuter des tâches simples (renommer des fichiers en masse, générer des sauvegardes automatiques, convertir des documents, etc.) ;\nFaire de l’analyse de texte basique.\n\nAvant de parcourir les bases de la programmation en Python, nous avons besoin de faire un détour par les lignes de commande. Que l’on désigne cette interface par shell, bash ou terminal, cet outil est bien un moyen d’interagir avec son ordinateur, sauf qu’au lieu d’interagir avec une interface graphique, on peut le faire via … une interface textuelle !\nChacun de ces termes a une signification qui lui est bien spécifique et ne représente pas le même environnement."
+  },
+  {
+    "objectID": "tools/terminal.html#où-trouver-les-lignes-de-commande",
+    "href": "tools/terminal.html#où-trouver-les-lignes-de-commande",
+    "title": "Le Terminal",
+    "section": "Où trouver les lignes de commande ?",
+    "text": "Où trouver les lignes de commande ?\nVotre interface de ligne de commande dépend de votre système d’exploitation. La plupart des OS appartiennent à l’une des deux familles d’OS : \n\nUnix (MacOS, Linux)\nWindows\n\nPour les Mac : chercher l’application “Terminal” (Applications -> Utilities).\nPour Windows : chercher “Powershell”\nPour Linux : appuyer sur le raccourci clavier ctrl+alt+t"
+  },
+  {
+    "objectID": "tools/terminal.html#tableau-des-lignes-de-commande-les-plus-courantes",
+    "href": "tools/terminal.html#tableau-des-lignes-de-commande-les-plus-courantes",
+    "title": "Le Terminal",
+    "section": "Tableau des lignes de commande les plus courantes",
+    "text": "Tableau des lignes de commande les plus courantes\n\n\n\n\n\n\n\n\nMac / Chrome / Linux\n Explication\n Windows Powershell\n\n\n\n\ncd filepath\nchange directory, aka move into a different folder\n cd filepath\n\n\nls\n list the files and folders in your current directory\n ls / dir / Get_ChilItem\n\n\npwd\n show path of workind directory, aka the folder that you’re in right now\n pwd/cd\n\n\ntouch filename\nmake a new file\n ni filename\n\n\nmkdir directory-name\nmake a new directory, aka a folder\n mkdir directory name\n\n\nrm filename\nremove, aka delete, a file or directory\n rm filename / del filename\n\n\ncp original-filename new-filename\n copy a file or directory\n cp / copy\n\n\nmv original-filename new-filename\n move or rename a file directory\nmove original-filename new-filename / ren original-filename new-filename\n\n\ncat filename\n show all the contents of a file\n cat filename / type filename\n\n\nless filename\n show snippet of a file that allows you to scroll through the entire thing\n more filename\n\n\nhead filename\n show the first 10 lines of a file (change number of lines by adding -*a number* flag, e.g. head -100)\n gc filename -head 10\n\n\ntail filename\n show the last 10 lines of a file (change number of lines by adding -*a number* flag, e.g. head -100)\n gc filename -tail 10\n\n\nwc -w -l filename\n show how many words or lines in a file\n gc filename | Measure-Object -Word -Line\n\n\nman command\n show the mannual, aka the documentation that tells you what a particular command does\n help commands\n\n\necho\n print text to the command line\necho\n\n\ngrep “search term” filename or directory-name\nsearch for lines that include search term in file\n findstr “search term” filename\n\n\ncurl -O url\nget, a file from the web\n wget url -OutFile new-filename"
+  },
+  {
+    "objectID": "tools/terminal.html#informations-complémentaires",
+    "href": "tools/terminal.html#informations-complémentaires",
+    "title": "Le Terminal",
+    "section": "Informations complémentaires",
+    "text": "Informations complémentaires\nPour plus de ressources sur le terminal vous pouvez aller suivre la formation [Débo/u/gue tes humanités] ou voir directement les pages concernée :\n\nComprendre l’ordinateur avec le terminal\nGérer ses fichiers\nTout savoir sur le terminal\nParamétrer son terminal\nBash ou comment industrialiser le terminal"
+  },
+  {
     "objectID": "tools/git.html",
     "href": "tools/git.html",
     "title": "Git",
@@ -221,7 +249,7 @@
     "href": "posts/011123.html#atelier",
     "title": "01 novembre 2023",
     "section": "Atelier",
-    "text": "Atelier\n\nPrésentation Basile"
+    "text": "Atelier\n\nPrésentation de Basile"
   },
   {
     "objectID": "posts/011123.html#pour-la-semaine-prochaine",
@@ -319,7 +347,35 @@
     "href": "posts/081123.html",
     "title": "08 novembre 2023",
     "section": "",
-    "text": "Note\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\n\nPrésentation Rachel"
+    "text": "Crédits\n\n\n\n\n\nJe tiens à remercier les personens qui m’ont aidé (directement ou indirectement) dans la réalisation de cette introduction à la programmation :\n\nMargot Mellet, pour nos discussions et les ressources échangées\nMélanie Walsh, ton livre web est une ressource très précieuse (Walsh & Dombrowski, 2021)\n\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nCliquez ici pour accéder au pad collaboratif.\n\n\nSupport de présentation (plein écran):\n\n\n\nProgramming knowledge is not a neutral thing (Posner, 2012)"
+  },
+  {
+    "objectID": "posts/081123.html#les-devoirs-de-la-semaine-précédente",
+    "href": "posts/081123.html#les-devoirs-de-la-semaine-précédente",
+    "title": "08 novembre 2023",
+    "section": "Les devoirs de la semaine précédente",
+    "text": "Les devoirs de la semaine précédente\n\nInstaller un environnement de travail Python : https://www.python.org/\n\nEn installant Python sur votre ordinateur vous aurez accès à IDLE, un environnement d’écriture dédié au langage de programmation Python.\nCependant, si vous souhaitez un environnement un peu plus spécialisé, vous pouvez vous tourner vers l’environnement de développement préféré comme Atom ou VSCode, ou encore des environnements plus complets comme Anaconda, sa version plus légère Miniconda, ou simplement des Jupyter Notebook.\n\nCréer un article dans l’éditeur de texte Stylo et raconter, comme pour un billet de blog, votre expérience de configuration de votre environnement de travail pour Python.\nPartager cet article avec moi (roch.delannay@umontreal.ca) dans Stylo."
+  },
+  {
+    "objectID": "posts/081123.html#atelier",
+    "href": "posts/081123.html#atelier",
+    "title": "08 novembre 2023",
+    "section": "Atelier",
+    "text": "Atelier\n\nPrésentation de Rachel\n\n\nExercices en Python\nPour les exercices, veuillez utiliser les ressources suivantes : \n\nUn script tutoriel.py\nLe roman Dracula au format txt mis à disposition par le projet Gutenberg."
+  },
+  {
+    "objectID": "posts/081123.html#pour-la-semaine-prochaine",
+    "href": "posts/081123.html#pour-la-semaine-prochaine",
+    "title": "08 novembre 2023",
+    "section": "Pour la semaine prochaine",
+    "text": "Pour la semaine prochaine"
+  },
+  {
+    "objectID": "posts/081123.html#ressources",
+    "href": "posts/081123.html#ressources",
+    "title": "08 novembre 2023",
+    "section": "Ressources",
+    "text": "Ressources\n\nPour plus d’informations sur le terminal, voir la page consacrée à ce sujet."
   },
   {
     "objectID": "posts/200923.html",

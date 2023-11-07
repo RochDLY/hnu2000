@@ -252,7 +252,16 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#pourquoi-utiliser-le-terminal" id="toc-pourquoi-utiliser-le-terminal" class="nav-link active" data-scroll-target="#pourquoi-utiliser-le-terminal">Pourquoi utiliser le terminal ?</a></li>
+  <li><a href="#où-trouver-les-lignes-de-commande" id="toc-où-trouver-les-lignes-de-commande" class="nav-link" data-scroll-target="#où-trouver-les-lignes-de-commande">Où trouver les lignes de commande ?</a></li>
+  <li><a href="#tableau-des-lignes-de-commande-les-plus-courantes" id="toc-tableau-des-lignes-de-commande-les-plus-courantes" class="nav-link" data-scroll-target="#tableau-des-lignes-de-commande-les-plus-courantes">Tableau des lignes de commande les plus courantes</a></li>
+  <li><a href="#informations-complémentaires" id="toc-informations-complémentaires" class="nav-link" data-scroll-target="#informations-complémentaires">Informations complémentaires</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -277,8 +286,146 @@ ul.task-list li input[type="checkbox"] {
 <ul>
 <li>Suivre ce <a href="https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/">tutoriel</a> pour installer <em>bash</em> pour ceux qui travaillent avec le système d’exploitation Windows.</li>
 </ul>
+<section id="pourquoi-utiliser-le-terminal" class="level2">
+<h2 class="anchored" data-anchor-id="pourquoi-utiliser-le-terminal">Pourquoi utiliser le terminal ?</h2>
+<ul>
+<li>Exécuter des scripts Python ;</li>
+<li>Installer des logiciels et des paquets Python ;</li>
+<li>Travailler sur différents ordinateurs depuis votre client ;</li>
+<li>Exécuter des tâches simples (renommer des fichiers en masse, générer des sauvegardes automatiques, convertir des documents, etc.) ;</li>
+<li>Faire de l’analyse de texte basique.</li>
+</ul>
+<p>Avant de parcourir les bases de la programmation en Python, nous avons besoin de faire un détour par les lignes de commande. Que l’on désigne cette interface par <em>shell</em>, <em>bash</em> ou terminal, cet outil est bien un moyen d’interagir avec son ordinateur, sauf qu’au lieu d’interagir avec une interface graphique, on peut le faire via … une interface textuelle !</p>
+<p>Chacun de ces termes a une signification qui lui est bien spécifique et ne représente pas le même environnement.</p>
+</section>
+<section id="où-trouver-les-lignes-de-commande" class="level2">
+<h2 class="anchored" data-anchor-id="où-trouver-les-lignes-de-commande">Où trouver les lignes de commande ?</h2>
+<p>Votre interface de ligne de commande dépend de votre système d’exploitation. La plupart des OS appartiennent à l’une des deux familles d’OS : </p>
+<ul>
+<li>Unix (MacOS, Linux)</li>
+<li>Windows</li>
+</ul>
+<p>Pour les Mac : chercher l’application “Terminal” (Applications -&gt; Utilities).<br>
+Pour Windows : chercher “Powershell”<br>
+Pour Linux : appuyer sur le raccourci clavier ctrl+alt+t</p>
+</section>
+<section id="tableau-des-lignes-de-commande-les-plus-courantes" class="level2">
+<h2 class="anchored" data-anchor-id="tableau-des-lignes-de-commande-les-plus-courantes">Tableau des lignes de commande les plus courantes</h2>
+<table class="table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Mac / Chrome / Linux</th>
+<th> Explication</th>
+<th> Windows Powershell</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>cd</code> <em>filepath</em></td>
+<td><strong>c</strong>hange <strong>d</strong>irectory, aka move into a different folder</td>
+<td> <code>cd</code> <em>filepath</em></td>
+</tr>
+<tr class="even">
+<td><code>ls</code></td>
+<td> <strong>l</strong>i<strong>s</strong>t the files and folders in your current <strong>dir</strong>ectory</td>
+<td> <code>ls</code> / <code>dir</code> / <code>Get_ChilItem</code></td>
+</tr>
+<tr class="odd">
+<td><code>pwd</code></td>
+<td> show <strong>p</strong>ath of <strong>w</strong>orkind <strong>d</strong>irectory, aka the folder that you’re in right now</td>
+<td> <code>pwd/cd</code></td>
+</tr>
+<tr class="even">
+<td><code>touch</code> <em>filename</em></td>
+<td>make a new file</td>
+<td> <code>ni</code> <em>filename</em></td>
+</tr>
+<tr class="odd">
+<td><code>mkdir</code> <em>directory-name</em></td>
+<td><strong>m</strong>ake a new <strong>dir</strong>ectory, aka a folder</td>
+<td> <code>mkdir</code> <em>directory name</em></td>
+</tr>
+<tr class="even">
+<td><code>rm</code> <em>filename</em></td>
+<td><strong>r</strong>e<strong>m</strong>ove, aka delete, a file or directory</td>
+<td> <code>rm</code> <em>filename</em> / <code>del</code> <em>filename</em></td>
+</tr>
+<tr class="odd">
+<td><code>cp</code> <em>original-filename</em> <em>new-filename</em></td>
+<td> <strong>c</strong>o<strong>p</strong>y a file or directory</td>
+<td> <code>cp</code> / <code>copy</code></td>
+</tr>
+<tr class="even">
+<td><code>mv</code> <em>original-filename</em> <em>new-filename</em></td>
+<td> <strong>m</strong>o<strong>v</strong>e or rename a file directory</td>
+<td><code>move</code> <em>original-filename</em> <em>new-filename</em> / <code>ren</code> <em>original-filename</em> <em>new-filename</em></td>
+</tr>
+<tr class="odd">
+<td><code>cat</code> <em>filename</em></td>
+<td> show all the contents of a file</td>
+<td> <code>cat</code> <em>filename</em> / <code>type</code> <em>filename</em></td>
+</tr>
+<tr class="even">
+<td><code>less</code> <em>filename</em></td>
+<td> show snippet of a file that allows you to scroll through the entire thing</td>
+<td> <code>more</code> <em>filename</em></td>
+</tr>
+<tr class="odd">
+<td><code>head</code> <em>filename</em></td>
+<td> show the first 10 lines of a file (change number of lines by adding <code>-*a number*</code> flag, e.g.&nbsp;<code>head -100</code>)</td>
+<td> <code>gc</code> <em>filename</em> <code>-head 10</code></td>
+</tr>
+<tr class="even">
+<td><code>tail</code> <em>filename</em></td>
+<td> show the last 10 lines of a file (change number of lines by adding <code>-*a number*</code> flag, e.g.&nbsp;<code>head -100</code>)</td>
+<td> <code>gc</code> <em>filename</em> <code>-tail 10</code></td>
+</tr>
+<tr class="odd">
+<td><code>wc -w -l</code> <em>filename</em></td>
+<td> show how many words or lines in a file</td>
+<td> <code>gc</code> <em>filename</em> | <code>Measure-Object -Word -Line</code></td>
+</tr>
+<tr class="even">
+<td><code>man</code> <em>command</em></td>
+<td> show the <strong>man</strong>nual, aka the documentation that tells you what a particular command does</td>
+<td> <code>help</code> <em>commands</em></td>
+</tr>
+<tr class="odd">
+<td><code>echo</code></td>
+<td> print text to the command line</td>
+<td><code>echo</code></td>
+</tr>
+<tr class="even">
+<td><code>grep</code> “search term” <em>filename</em> or <em>directory-name</em></td>
+<td>search for lines that include search term in file</td>
+<td> <code>findstr</code> “search term” <em>filename</em></td>
+</tr>
+<tr class="odd">
+<td><code>curl -O</code> <em>url</em></td>
+<td><strong>get</strong>, a file from the web</td>
+<td> <code>wget</code> <em>url</em> <code>-OutFile</code> <em>new-filename</em></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="informations-complémentaires" class="level2">
+<h2 class="anchored" data-anchor-id="informations-complémentaires">Informations complémentaires</h2>
+<p>Pour plus de ressources sur le terminal vous pouvez aller suivre la formation [Débo/u/gue tes humanités] ou voir directement les pages concernée :</p>
+<ul>
+<li><a href="https://debugue.ecrituresnumeriques.ca/saison-04/seance-01-comprendre-l-ordinateur-avec-le-terminal/">Comprendre l’ordinateur avec le terminal</a></li>
+<li><a href="https://debugue.ecrituresnumeriques.ca/saison-01/seance-04-fichiers/">Gérer ses fichiers</a></li>
+<li><a href="https://debugue.ecrituresnumeriques.ca/saison-01/seance-05-terminal/">Tout savoir sur le terminal</a></li>
+<li><a href="https://debugue.ecrituresnumeriques.ca/saison-02/seance-01-parametrer-son-terminal/">Paramétrer son terminal</a></li>
+<li><a href="https://debugue.ecrituresnumeriques.ca/saison-02/seance-03-bash/">Bash ou comment industrialiser le terminal</a></li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

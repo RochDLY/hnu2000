@@ -20,6 +20,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -257,6 +276,13 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#introduction-à-la-programmation" id="toc-introduction-à-la-programmation" class="nav-link active" data-scroll-target="#introduction-à-la-programmation">Introduction à la programmation</a></li>
+  <li><a href="#les-devoirs-de-la-semaine-précédente" id="toc-les-devoirs-de-la-semaine-précédente" class="nav-link" data-scroll-target="#les-devoirs-de-la-semaine-précédente">Les devoirs de la semaine précédente</a></li>
+  <li><a href="#atelier" id="toc-atelier" class="nav-link" data-scroll-target="#atelier">Atelier</a>
+  <ul class="collapse">
+  <li><a href="#exercices-en-python" id="toc-exercices-en-python" class="nav-link" data-scroll-target="#exercices-en-python">Exercices en Python</a></li>
+  </ul></li>
+  <li><a href="#pour-la-semaine-prochaine" id="toc-pour-la-semaine-prochaine" class="nav-link" data-scroll-target="#pour-la-semaine-prochaine">Pour la semaine prochaine</a></li>
+  <li><a href="#ressources" id="toc-ressources" class="nav-link" data-scroll-target="#ressources">Ressources</a></li>
   </ul>
 </nav>
     </div>
@@ -283,6 +309,26 @@ ul.task-list li input[type="checkbox"] {
 <section id="introduction-à-la-programmation" class="level2">
 <h2 class="anchored" data-anchor-id="introduction-à-la-programmation">Introduction à la programmation</h2>
 <div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Crédits
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Je tiens à remercier les personens qui m’ont aidé (directement ou indirectement) dans la réalisation de cette introduction à la programmation :</p>
+<ul>
+<li><a href="https://blank.blue/">Margot Mellet</a>, pour nos discussions et les ressources échangées</li>
+<li><a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html">Mélanie Walsh</a>, ton livre web est une ressource très précieuse <span class="citation" data-cites="walsh_melaniewalshintro-cultural-analytics_2021">(<a href="#ref-walsh_melaniewalshintro-cultural-analytics_2021" role="doc-biblioref">Walsh &amp; Dombrowski, 2021</a>)</span></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="callout-note callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -295,14 +341,60 @@ Note
 <p><a href="https://demo.hedgedoc.org/MIbtWd_LScKUosSnqswAgA#">Cliquez ici</a> pour accéder au pad collaboratif.</p>
 </div>
 </div>
+<p>Support de présentation (<a href="../slides/seance8.html" target="_blank">plein écran</a>):</p>
+
+<iframe src="../slides/seance8.html"></iframe>
+<blockquote class="blockquote">
+<p>Programming knowledge is not a neutral thing <span class="citation" data-cites="posner_things_2012">(<a href="#ref-posner_things_2012" role="doc-biblioref">Posner, 2012</a>)</span></p>
+</blockquote>
+</section>
+<section id="les-devoirs-de-la-semaine-précédente" class="level2">
+<h2 class="anchored" data-anchor-id="les-devoirs-de-la-semaine-précédente">Les devoirs de la semaine précédente</h2>
 <ul>
-<li>Présentation Rachel</li>
+<li>Installer un environnement de travail Python : https://www.python.org/</li>
 </ul>
+<p>En installant Python sur votre ordinateur vous aurez accès à IDLE, un environnement d’écriture dédié au langage de programmation Python.</p>
+<p>Cependant, si vous souhaitez un environnement un peu plus spécialisé, vous pouvez vous tourner vers l’environnement de développement préféré comme <a href="https://atom-editor.cc/">Atom</a> ou <a href="https://code.visualstudio.com/">VSCode</a>, ou encore des environnements plus complets comme <a href="https://docs.anaconda.com/free/anaconda/install/">Anaconda</a>, sa version plus légère <a href="https://docs.conda.io/projects/miniconda/en/latest/">Miniconda</a>, ou simplement des <a href="https://jupyter.org/">Jupyter Notebook</a>.</p>
+<ul>
+<li>Créer un article dans l’éditeur de texte Stylo et raconter, comme pour un billet de blog, votre expérience de configuration de votre environnement de travail pour Python.</li>
+<li>Partager cet article avec moi (roch.delannay@umontreal.ca) dans Stylo.</li>
+</ul>
+</section>
+<section id="atelier" class="level2">
+<h2 class="anchored" data-anchor-id="atelier">Atelier</h2>
+<ul>
+<li>Présentation de Rachel</li>
+</ul>
+<section id="exercices-en-python" class="level3">
+<h3 class="anchored" data-anchor-id="exercices-en-python">Exercices en Python</h3>
+<p>Pour les exercices, veuillez utiliser les ressources suivantes : </p>
+<ul>
+<li>Un script <a href="../ressources/tutoriel.py">tutoriel.py</a></li>
+<li>Le roman <a href="../ressources/dracula.txt">Dracula</a> au format <code>txt</code> mis à disposition par le projet Gutenberg.</li>
+</ul>
+</section>
+</section>
+<section id="pour-la-semaine-prochaine" class="level2">
+<h2 class="anchored" data-anchor-id="pour-la-semaine-prochaine">Pour la semaine prochaine</h2>
+</section>
+<section id="ressources" class="level2">
+<h2 class="anchored" data-anchor-id="ressources">Ressources</h2>
+<ul>
+<li>Pour plus d’informations sur le <code>terminal</code>, voir la <a href="../tools/terminal.html">page</a> consacrée à ce sujet.</li>
+</ul>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
+<div id="ref-posner_things_2012" class="csl-entry" role="doc-biblioentry">
+Posner, M. (2012). <em>Some things to think about before you exhort everyone to code <span>Miriam Posner</span>’s <span>Blog</span></em>.
+</div>
+<div id="ref-walsh_melaniewalshintro-cultural-analytics_2021" class="csl-entry" role="doc-biblioentry">
+Walsh, M., &amp; Dombrowski, Q. (2021). <em>Melaniewalsh/<span>Intro-Cultural-Analytics</span>: <span>Version</span> 1.1.0</em>. Zenodo. <a href="https://doi.org/10.5281/ZENODO.4411250">https://doi.org/10.5281/ZENODO.4411250</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
