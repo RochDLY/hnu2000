@@ -1,8 +1,21 @@
 ---
 title: "08 novembre 2023"
+bibliography: bibliographie/HNU2000.bib
+nocite: false
 ---
 
 ## Introduction à la programmation
+
+::: {.callout-note collapse="true"}
+
+## Crédits
+
+Je tiens à remercier les personens qui m'ont aidé (directement ou indirectement) dans la réalisation de cette introduction à la programmation : 
+
+- [Margot Mellet](https://blank.blue/), pour nos discussions et les ressources échangées
+- [Mélanie Walsh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html), ton livre web est une ressource très précieuse [@walsh_melaniewalshintro-cultural-analytics_2021]
+
+:::
 
 ::: {.callout-note}
 
@@ -10,5 +23,42 @@ title: "08 novembre 2023"
 
 :::
 
+Support de présentation ([plein écran](/slides/seance8.html){target="_blank"}):
 
-- Présentation Rachel
+```{=html}
+
+<iframe src="/slides/seance8.html"></iframe>
+```
+> Programming knowledge is not a neutral thing 
+> [@posner_things_2012]
+
+## Les devoirs de la semaine précédente
+
+- Installer un environnement de travail Python : https://www.python.org/
+
+En installant Python sur votre ordinateur vous aurez accès à IDLE, un environnement d'écriture dédié au langage de programmation Python. 
+
+Cependant, si vous souhaitez un environnement un peu plus spécialisé, vous pouvez vous tourner vers l'environnement de développement préféré comme [Atom](https://atom-editor.cc/) ou [VSCode](https://code.visualstudio.com/), ou encore des environnements plus complets comme [Anaconda](https://docs.anaconda.com/free/anaconda/install/), sa version plus légère [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/), ou simplement des [Jupyter Notebook](https://jupyter.org/).
+
+- Créer un article dans l'éditeur de texte Stylo et raconter, comme pour un billet de blog, votre expérience de configuration de votre environnement de travail pour Python.
+- Partager cet article avec moi (roch.delannay@umontreal.ca) dans Stylo.
+
+## Atelier 
+
+- Présentation de Rachel
+
+### Exercices en Python
+
+Pour les exercices, veuillez utiliser les ressources suivantes : 
+
+- Un script [tutoriel.py](/ressources/tutoriel.py)
+- Le roman [Dracula](/ressources/dracula.txt) au format `txt` mis à disposition par le projet Gutenberg.
+
+
+## Pour la semaine prochaine
+
+## Ressources 
+
+- Pour plus d'informations sur le `terminal`, voir la [page](/tools/terminal.qmd) consacrée à ce sujet.
+
+

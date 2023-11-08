@@ -4,3 +4,60 @@ title: "Le Terminal"
 
 
 - Suivre ce [tutoriel](https://blog.ineat-group.com/2020/02/utiliser-le-terminal-bash-natif-dans-windows-10/) pour installer *bash* pour ceux qui travaillent avec le système d'exploitation Windows.
+
+## Pourquoi utiliser le terminal ?
+
+- Exécuter des scripts Python ;
+- Installer des logiciels et des paquets Python ;
+- Travailler sur différents ordinateurs depuis votre client ;
+- Exécuter des tâches simples (renommer des fichiers en masse, générer des sauvegardes automatiques, convertir des documents, etc.) ;
+- Faire de l'analyse de texte basique.
+
+Avant de parcourir les bases de la programmation en Python, nous avons besoin de faire un détour par les lignes de commande.
+Que l'on désigne cette interface par _shell_, _bash_ ou terminal, cet outil est bien un moyen d'interagir avec son ordinateur, sauf qu'au lieu d'interagir avec une interface graphique, on peut le faire via ... une interface textuelle !
+
+Chacun de ces termes a une signification qui lui est bien spécifique et ne représente pas le même environnement.
+
+## Où trouver les lignes de commande ?
+
+Votre interface de ligne de commande dépend de votre système d'exploitation.
+La plupart des OS appartiennent à l'une des deux familles d'OS : 
+
+- Unix (MacOS, Linux)
+- Windows
+
+Pour les Mac : chercher l'application "Terminal" (Applications -> Utilities).  
+Pour Windows : chercher "Powershell"  
+Pour Linux : appuyer sur le raccourci clavier ctrl+alt+t
+
+## Tableau des lignes de commande les plus courantes
+
+Mac / Chrome / Linux | Explication | Windows Powershell
+---|---|---|
+`cd` _filepath_ | **c**hange **d**irectory, aka move into a different folder | `cd` _filepath_ |
+`ls` | **l**i**s**t the files and folders in your current **dir**ectory | `ls` / `dir` / `Get_ChilItem` |
+`pwd` | show **p**ath of **w**orkind **d**irectory, aka the folder that you're in right now | `pwd/cd` |
+`touch` _filename_ | make a new file | `ni` _filename_ |
+`mkdir` _directory-name_ | **m**ake a new **dir**ectory, aka a folder | `mkdir` _directory name_ |
+`rm` _filename_ | **r**e**m**ove, aka delete, a file or directory | `rm` _filename_ / `del` _filename_ |
+`cp` _original-filename_ _new-filename_ | **c**o**p**y a file or directory | `cp` / `copy` |
+`mv` _original-filename_ _new-filename_ | **m**o**v**e or rename a file directory | `move` _original-filename_ _new-filename_ / `ren` _original-filename_ _new-filename_ |
+`cat` _filename_ | show all the contents of a file | `cat` _filename_ / `type` _filename_ |
+`less` _filename_ | show snippet of a file that allows you to scroll through the entire thing | `more` _filename_ |
+`head` _filename_ | show the first 10 lines of a file (change number of lines by adding `-*a number*` flag, e.g. `head -100`) | `gc` _filename_ `-head 10` |
+`tail` _filename_ | show the last 10 lines of a file (change number of lines by adding `-*a number*` flag, e.g. `head -100`) | `gc` _filename_ `-tail 10` |
+`wc -w -l` _filename_ | show how many words or lines in a file | `gc` _filename_ \| `Measure-Object -Word -Line` |
+`man` _command_ | show the **man**nual, aka the documentation that tells you what a particular command does | `help` _commands_ | 
+`echo` | print text to the command line | `echo` |
+`grep` "search term" _filename_ or _directory-name_ | search for lines that include search term in file | `findstr` "search term" _filename_ |
+`curl -O` _url_ | **get**, a file from the web | `wget` _url_ `-OutFile` _new-filename_ |
+
+## Informations complémentaires
+
+Pour plus de ressources sur le terminal vous pouvez aller suivre la formation [Débo/u/gue tes humanités] ou voir directement les pages concernée : 
+
+- [Comprendre l'ordinateur avec le terminal](https://debugue.ecrituresnumeriques.ca/saison-04/seance-01-comprendre-l-ordinateur-avec-le-terminal/)
+- [Gérer ses fichiers](https://debugue.ecrituresnumeriques.ca/saison-01/seance-04-fichiers/)
+- [Tout savoir sur le terminal](https://debugue.ecrituresnumeriques.ca/saison-01/seance-05-terminal/)
+- [Paramétrer son terminal](https://debugue.ecrituresnumeriques.ca/saison-02/seance-01-parametrer-son-terminal/)
+- [Bash ou comment industrialiser le terminal](https://debugue.ecrituresnumeriques.ca/saison-02/seance-03-bash/)
