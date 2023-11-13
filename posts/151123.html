@@ -20,6 +20,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -257,6 +276,12 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#récupérer-et-nettoyer-des-données-sur-le-web" id="toc-récupérer-et-nettoyer-des-données-sur-le-web" class="nav-link active" data-scroll-target="#récupérer-et-nettoyer-des-données-sur-le-web">Récupérer et nettoyer des données sur le Web</a></li>
+  <li><a href="#ateliers" id="toc-ateliers" class="nav-link" data-scroll-target="#ateliers">Ateliers</a>
+  <ul class="collapse">
+  <li><a href="#présentations" id="toc-présentations" class="nav-link" data-scroll-target="#présentations">Présentations</a></li>
+  <li><a href="#récupération-de-données-sur-le-web" id="toc-récupération-de-données-sur-le-web" class="nav-link" data-scroll-target="#récupération-de-données-sur-le-web">Récupération de données sur le web</a></li>
+  </ul></li>
+  <li><a href="#pour-la-semaine-prochaine" id="toc-pour-la-semaine-prochaine" class="nav-link" data-scroll-target="#pour-la-semaine-prochaine">Pour la semaine prochaine</a></li>
   </ul>
 </nav>
     </div>
@@ -283,6 +308,26 @@ ul.task-list li input[type="checkbox"] {
 <section id="récupérer-et-nettoyer-des-données-sur-le-web" class="level2">
 <h2 class="anchored" data-anchor-id="récupérer-et-nettoyer-des-données-sur-le-web">Récupérer et nettoyer des données sur le Web</h2>
 <div class="callout-note callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Crédits
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Je tiens à remercier les personens qui m’ont aidé (directement ou indirectement) dans la réalisation de cette introduction à la programmation :</p>
+<ul>
+<li><a href="https://blank.blue/">Margot Mellet</a>, pour nos discussions et les ressources échangées</li>
+<li><a href="https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html">Mélanie Walsh</a>, ton livre web est une ressource très précieuse <span class="citation" data-cites="walsh_melaniewalshintro-cultural-analytics_2021">(<a href="#ref-walsh_melaniewalshintro-cultural-analytics_2021" role="doc-biblioref">Walsh &amp; Dombrowski, 2021</a>)</span></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="callout-note callout callout-style-default callout-captioned">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
@@ -295,14 +340,49 @@ Note
 <p><a href="https://demo.hedgedoc.org/LPlTIRlDQsO86JF7iIHstA#">Cliquez ici</a> pour accéder au pad collaboratif.</p>
 </div>
 </div>
+<p>Support de présentation (<a href="../slides/seance9.html" target="_blank">plein écran</a>):</p>
+
+<iframe src="../slides/seance9.html"></iframe>
+</section>
+<section id="ateliers" class="level2">
+<h2 class="anchored" data-anchor-id="ateliers">Ateliers</h2>
+<section id="présentations" class="level3">
+<h3 class="anchored" data-anchor-id="présentations">Présentations</h3>
 <ul>
 <li>Présentation Janette</li>
+<li>Présentation Rachel</li>
 </ul>
+</section>
+<section id="récupération-de-données-sur-le-web" class="level3">
+<h3 class="anchored" data-anchor-id="récupération-de-données-sur-le-web">Récupération de données sur le web</h3>
+<p>Pour récupérer des données sur le web, nous aurons besoin de plusieurs librairies Python :</p>
+<ul>
+<li><code>os</code></li>
+<li><code>requests</code></li>
+<li><a href="https://pypi.org/project/beautifulsoup4/"><code>BeautifulSoup4</code></a></li>
+<li><code>csv</code></li>
+</ul>
+<p>Vérifiez bien que ces librairies soient installées sur votre ordinateur pour pouvoir travailler avec les scripts.</p>
+</section>
+</section>
+<section id="pour-la-semaine-prochaine" class="level2">
+<h2 class="anchored" data-anchor-id="pour-la-semaine-prochaine">Pour la semaine prochaine</h2>
+<ul>
+<li>Lire <span class="citation" data-cites="sinclairTextAnalysisVisualization2015">(<a href="#ref-sinclairTextAnalysisVisualization2015" role="doc-biblioref">Sinclair &amp; Rockwell, 2015</a>)</span> que vous pouvez lire <a href="../ressources/Text_Analysis_and_Visualization.pdf">ici</a>.</li>
+</ul>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
+<div id="ref-sinclairTextAnalysisVisualization2015" class="csl-entry" role="doc-biblioentry">
+Sinclair, S., &amp; Rockwell, G. (2015). <em>Text <span>Analysis</span> and <span>Visualization</span>: <span>Making Meaning Count</span></em> (pp. 274–290). <a href="https://doi.org/10.1002/9781118680605.ch19">https://doi.org/10.1002/9781118680605.ch19</a>
+</div>
+<div id="ref-walsh_melaniewalshintro-cultural-analytics_2021" class="csl-entry" role="doc-biblioentry">
+Walsh, M., &amp; Dombrowski, Q. (2021). <em>Melaniewalsh/<span>Intro-Cultural-Analytics</span>: <span>Version</span> 1.1.0</em>. Zenodo. <a href="https://doi.org/10.5281/ZENODO.4411250">https://doi.org/10.5281/ZENODO.4411250</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
