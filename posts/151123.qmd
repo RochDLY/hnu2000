@@ -1,8 +1,21 @@
 ---
 title: "15 novembre 2023"
+bibliography: bibliographie/HNU2000.bib
+nocite: false
 ---
 
 ## Récupérer et nettoyer des données sur le Web
+
+::: {.callout-note collapse="true"}
+
+## Crédits
+
+Je tiens à remercier les personnes qui m'ont aidé (directement ou indirectement) dans la réalisation de cette introduction à la programmation : 
+
+- [Margot Mellet](https://blank.blue/), pour nos discussions et les ressources échangées
+- [Mélanie Walsh](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html), ton livre web est une ressource très précieuse [@walsh_melaniewalshintro-cultural-analytics_2021]
+
+:::
 
 ::: {.callout-note}
 
@@ -10,5 +23,31 @@ title: "15 novembre 2023"
 
 :::
 
-- Présentation Janette
+Support de présentation ([plein écran](/slides/seance9.html){target="_blank"}):
 
+```{=html}
+
+<iframe src="/slides/seance9.html"></iframe>
+```
+
+## Ateliers
+
+### Présentations
+
+- Présentation Janette
+- Présentation Rachel
+
+### Récupération de données sur le web
+
+Pour récupérer des données sur le web, nous aurons besoin de plusieurs librairies Python : 
+
+- `os`
+- `requests`
+- [`BeautifulSoup4`](https://pypi.org/project/beautifulsoup4/)
+- `csv`
+
+Vérifiez bien que ces librairies soient installées sur votre ordinateur pour pouvoir travailler avec les scripts.
+
+## Pour la semaine prochaine
+
+- Lire [@sinclairTextAnalysisVisualization2015] que vous pouvez lire [ici](../ressources/Text_Analysis_and_Visualization.pdf).

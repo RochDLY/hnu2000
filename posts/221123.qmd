@@ -1,5 +1,7 @@
 ---
 title: "22 novembre 2023"
+bibliography: bibliographie/HNU2000.bib
+nocite: false
 ---
 
 ## Analyser du texte
@@ -10,5 +12,22 @@ title: "22 novembre 2023"
 
 :::
 
-- Présentation Nohlene
+Support de présentation ([plein écran](/slides/seance10.html){target="_blank"}): 
 
+```{=html}
+<iframe src="/slides/seance10.html"></iframe>
+```
+
+## Les devoirs de la ssemaine précédente
+
+- Lire [@sinclairTextAnalysisVisualization2015]
+
+## Ateliers
+
+### Présentations 
+
+- Présentation Nohlene 
+
+## Pour la semaine prochaine 
+
+- Lire [@grandjeanStructuresComplexesOrganisations2017], vous pouvez le trouver [ici](https://shs.hal.science/halshs-01610098v2/document)

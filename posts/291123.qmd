@@ -1,13 +1,33 @@
 ---
 title: "29 novembre 2023"
+bibliography: bibliographie/HNU2000.bib
+nocite: false
 ---
 
 ## Exploiter des données à travers la théorie des graphes
 
-Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son article ["Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations"](halshs-01610098v2) publié en 2017.
+Ce cours s'appuiera largement sur les travaux de Martin Grandjean, notamment son article ["Structures complexes et organisations internationales : Analyses de réseaux en histoire. L'exemple de la coopération intellectuelle de la Société des Nations"](https://shs.hal.science/halshs-01610098v2) publié en 2017.
 
 ::: {.callout-note}
 
 [Cliquez ici](https://demo.hedgedoc.org/FvUHn0UAT46ZQrG7ExxYbw#) pour accéder au pad collaboratif.
 
 :::
+
+Support de présentation ([plein écran](/slides/seance11.html){target="_blank"}): 
+
+```{=html}
+<iframe src="/slides/seance11.html"></iframe>
+```
+
+## Les devoirs de la semaine précédente
+
+- Lire [@grandjeanStructuresComplexesOrganisations2017], vous pouvez le trouver [ici](https://shs.hal.science/halshs-01610098v2/document)
+
+
+## Ateliers 
+
+- Présentation de Rachel
+- Atelier méthodologie
+- Suivre le tutoriel de Gephi
+
