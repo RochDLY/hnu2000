@@ -29,5 +29,5 @@ Support de présentation ([plein écran](/slides/seance11.html){target="_blank"}
 
 - Présentation de Rachel
 - Atelier méthodologie
-- Suivre le tutoriel de Gephi
+- Présentation de Gephi
 
